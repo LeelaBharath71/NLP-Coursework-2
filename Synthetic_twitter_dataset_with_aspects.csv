@@ -1,0 +1,3000 @@
+tweet,sentiment,aspect_category
+The product is not durable at all.,negative,Durability
+The value for money is acceptable.,neutral,Value for Money
+I'm happy with the overall experience.,positive,Overall Experience
+The product did not meet my standards.,negative,Product Quality
+The product did not meet my expectations.,negative,Product Quality
+The overall experience was satisfactory.,neutral,Overall Experience
+The design is quite functional.,positive,Design
+The product quality is remarkable.,positive,Product Quality
+The value for money is great.,positive,Value for Money
+The product is very reliable.,positive,Durability
+The overall experience was not good.,negative,Overall Experience
+The value for money is not good.,negative,Value for Money
+The overall experience was not good.,negative,Overall Experience
+Delivery was fast and efficient.,positive,Delivery
+Customer service was slow.,negative,Customer Service
+The product performs very well.,positive,Functionality
+Delivery was fast and efficient.,positive,Delivery
+The overall experience was fantastic.,positive,Overall Experience
+The overall experience was positive.,positive,Overall Experience
+The overall experience was fine.,neutral,Overall Experience
+The overall experience was excellent.,positive,Overall Experience
+The design is very attractive.,positive,Design
+The product is overpriced.,negative,Value for Money
+The product is not durable.,negative,Durability
+The product is overpriced.,negative,Value for Money
+Customer service was mediocre.,neutral,Customer Service
+Customer service was slow.,negative,Customer Service
+I'm very happy with the purchase.,positive,Overall Experience
+The overall experience was not good.,negative,Overall Experience
+The product is very reliable.,positive,Durability
+Customer service was rude.,negative,Customer Service
+I'm happy with the overall experience.,positive,Overall Experience
+The design is very practical.,positive,Design
+Delivery was very quick.,positive,Delivery
+The product is high quality.,positive,Product Quality
+The product is not durable.,negative,Durability
+The product is not durable.,negative,Durability
+Not satisfied with the purchase.,negative,Overall Experience
+An overall satisfying experience.,positive,Overall Experience
+I'm impressed with the design.,positive,Design
+The overall experience was fine.,neutral,Overall Experience
+The value for money is poor.,negative,Value for Money
+I'm very happy with the purchase.,positive,Overall Experience
+The product works perfectly.,positive,Functionality
+The product works as advertised.,positive,Functionality
+The value for money is poor.,negative,Value for Money
+I'm satisfied with the product quality.,positive,Product Quality
+Delivery was efficient.,positive,Delivery
+Customer service was not responsive.,negative,Customer Service
+Service was not satisfactory.,negative,Customer Service
+The design is modern and sleek.,positive,Design
+Customer service was slow.,negative,Customer Service
+Customer service was rude.,negative,Customer Service
+I'm very happy with the purchase.,positive,Overall Experience
+Delivery was on time.,positive,Delivery
+The product is satisfactory for its cost.,neutral,Product Quality
+Delivery took longer than expected.,negative,Delivery
+The product is of poor quality.,negative,Product Quality
+This is a decent product for its price.,neutral,Value for Money
+Customer service was not responsive.,negative,Customer Service
+Service was not satisfactory.,negative,Customer Service
+Customer service was rude.,negative,Customer Service
+Delivery was a bit slow.,neutral,Delivery
+Customer service was not responsive.,negative,Customer Service
+The product quality is mediocre.,neutral,Product Quality
+The design is quite impressive.,positive,Design
+I'm very happy with the purchase.,positive,Overall Experience
+A decent overall experience.,neutral,Overall Experience
+The design is quite good.,positive,Design
+Customer service was rude.,negative,Customer Service
+Delivery was prompt and efficient.,positive,Delivery
+Customer service was not responsive.,negative,Customer Service
+Delivery was fast and efficient.,positive,Delivery
+The overall experience was okay.,neutral,Overall Experience
+I'm impressed with the design.,positive,Design
+The value for money is poor.,negative,Value for Money
+I'm satisfied with the product quality.,positive,Product Quality
+The value for money is not great.,negative,Value for Money
+The product quality is mediocre.,neutral,Product Quality
+Service was not satisfactory.,negative,Customer Service
+The product is high quality.,positive,Product Quality
+Delivery was fast and efficient.,positive,Delivery
+Delivery was on time.,positive,Delivery
+The overall experience was okay.,neutral,Overall Experience
+Product stopped working after a week.,negative,Durability
+The product works perfectly.,positive,Functionality
+The design is very attractive.,positive,Design
+Delivery was prompt and efficient.,positive,Delivery
+Delivery was fast and efficient.,positive,Delivery
+Service was acceptable.,neutral,Customer Service
+The overall experience was excellent.,positive,Overall Experience
+I'm satisfied with the product quality.,positive,Product Quality
+The design is quite functional.,positive,Design
+The product is of poor quality.,negative,Product Quality
+The product performs very well.,positive,Functionality
+The product is of poor quality.,negative,Product Quality
+I'm very happy with the purchase.,positive,Overall Experience
+Service was not satisfactory.,negative,Customer Service
+The design is quite good.,positive,Design
+Customer service was rude.,negative,Customer Service
+The product is satisfactory for its cost.,neutral,Product Quality
+The product is not durable.,negative,Durability
+Customer service was slow.,negative,Customer Service
+Delivery was a bit slow.,neutral,Delivery
+The product quality is mediocre.,neutral,Product Quality
+The product met all my expectations.,positive,Product Quality
+The value for money is not good.,negative,Value for Money
+The product quality is outstanding.,positive,Product Quality
+Service was not satisfactory.,negative,Customer Service
+I'm happy with the overall experience.,positive,Overall Experience
+The design is quite good.,positive,Design
+The product is very reliable.,positive,Durability
+The overall experience was excellent.,positive,Overall Experience
+The product is high quality.,positive,Product Quality
+The product is of poor quality.,negative,Product Quality
+I'm very happy with the purchase.,positive,Overall Experience
+Customer service was slow.,negative,Customer Service
+Value for money is exceptional.,positive,Value for Money
+Customer service needs improvement.,negative,Customer Service
+The product is very reliable.,positive,Durability
+The overall experience was fine.,neutral,Overall Experience
+The product is excellent.,positive,Product Quality
+The design is very attractive.,positive,Design
+The value for money is not good.,negative,Value for Money
+The overall experience was excellent.,positive,Overall Experience
+Service was quick and responsive.,positive,Customer Service
+The design is quite good.,positive,Design
+Customer service needs improvement.,negative,Customer Service
+The product quality is mediocre.,neutral,Product Quality
+The product is overpriced.,negative,Value for Money
+The product did not meet my standards.,negative,Product Quality
+The overall experience was not good.,negative,Overall Experience
+"The product is okay, not great.",neutral,Product Quality
+The design is modern and sleek.,positive,Design
+Service was acceptable.,neutral,Customer Service
+Service was quick and responsive.,positive,Customer Service
+The product performs well.,positive,Functionality
+Delivery was efficient.,positive,Delivery
+The overall experience was okay.,neutral,Overall Experience
+The design is quite good.,positive,Design
+Delivery was prompt and efficient.,positive,Delivery
+The product is not durable.,negative,Durability
+The product quality is substandard.,negative,Product Quality
+Service was quick and responsive.,positive,Customer Service
+The overall experience was satisfactory.,neutral,Overall Experience
+The product performs very well.,positive,Functionality
+Service was not satisfactory.,negative,Customer Service
+Not happy with the value for money.,negative,Value for Money
+Customer service was not helpful.,negative,Customer Service
+The value for money is not good.,negative,Value for Money
+The product works perfectly.,positive,Functionality
+The product quality is outstanding.,positive,Product Quality
+Service was acceptable.,neutral,Customer Service
+Delivery was fast and efficient.,positive,Delivery
+The overall experience was average.,neutral,Overall Experience
+Customer service was slow.,negative,Customer Service
+The product did not meet my standards.,negative,Product Quality
+The value for money is reasonable.,positive,Value for Money
+The overall experience was positive.,positive,Overall Experience
+"Service was okay, nothing special.",neutral,Customer Service
+Delivery was prompt and efficient.,positive,Delivery
+The overall experience was not good.,negative,Overall Experience
+The design is quite good.,positive,Design
+Delivery was quicker than I expected.,positive,Delivery
+The overall experience was positive.,positive,Overall Experience
+The overall experience was not good.,negative,Overall Experience
+The product quality is mediocre.,neutral,Product Quality
+The overall experience was excellent.,positive,Overall Experience
+This is a decent product for its price.,neutral,Value for Money
+The value for money is not good.,negative,Value for Money
+Customer service was not helpful.,negative,Customer Service
+The design is quite functional.,positive,Design
+The product is of poor quality.,negative,Product Quality
+The quality of the product could be better.,neutral,Product Quality
+Delivery was a bit slow.,neutral,Delivery
+Delivery was fast and efficient.,positive,Delivery
+The product is high quality.,positive,Product Quality
+Delivery was prompt and efficient.,positive,Delivery
+The product did not meet my standards.,negative,Product Quality
+The product works as advertised.,positive,Functionality
+The product quality is substandard.,negative,Product Quality
+I'm satisfied with the product quality.,positive,Product Quality
+The product quality is subpar.,negative,Product Quality
+Service was acceptable.,neutral,Customer Service
+Delivery was quicker than I expected.,positive,Delivery
+The design is modern and sleek.,positive,Design
+The design is elegant and modern.,positive,Design
+I'm not satisfied with the value provided.,negative,Value for Money
+The overall experience was okay.,neutral,Overall Experience
+Customer service was not helpful.,negative,Customer Service
+The overall experience was fantastic.,positive,Overall Experience
+Delivery was quicker than I expected.,positive,Delivery
+Customer service was not responsive.,negative,Customer Service
+I'm satisfied with the product quality.,positive,Product Quality
+Service was quick and responsive.,positive,Customer Service
+Customer service was slow to respond.,negative,Customer Service
+The overall experience was positive.,positive,Overall Experience
+The value for money is not good.,negative,Value for Money
+Service was neither good nor bad.,neutral,Customer Service
+Service was not satisfactory.,negative,Customer Service
+Customer service needs improvement.,negative,Customer Service
+The overall experience was not good.,negative,Overall Experience
+The overall experience was okay.,neutral,Overall Experience
+The value for money is satisfactory.,neutral,Value for Money
+Delivery was a bit slow.,neutral,Delivery
+"Service was fine, not great.",neutral,Customer Service
+I'm satisfied with the product quality.,positive,Product Quality
+Delivery was prompt and efficient.,positive,Delivery
+Delivery was on time.,positive,Delivery
+The product is overpriced.,negative,Value for Money
+The product performs very well.,positive,Functionality
+The product is overpriced.,negative,Value for Money
+The product is of poor quality.,negative,Product Quality
+The overall experience was average.,neutral,Overall Experience
+Delivery was on time.,positive,Delivery
+"Service was average, not too bad.",neutral,Customer Service
+The overall experience was fantastic.,positive,Overall Experience
+The value for money is subpar.,negative,Value for Money
+The product performs very well.,positive,Functionality
+I'm very happy with the purchase.,positive,Overall Experience
+Delivery was a bit slow.,neutral,Delivery
+The product quality is substandard.,negative,Product Quality
+The overall experience was okay.,neutral,Overall Experience
+Product quality is top-notch.,positive,Product Quality
+Delivery was quicker than I expected.,positive,Delivery
+The design is quite good.,positive,Design
+The overall experience was satisfactory.,neutral,Overall Experience
+The design is quite functional.,positive,Design
+The product is not durable.,negative,Durability
+Service was not up to par.,negative,Customer Service
+The product is not durable.,negative,Durability
+The product is very reliable.,positive,Durability
+The value for money is poor.,negative,Value for Money
+The product exceeded my expectations.,positive,Product Quality
+The design is very attractive.,positive,Design
+Delivery was on time.,positive,Delivery
+The product performs very well.,positive,Functionality
+The product is overpriced.,negative,Value for Money
+Delivery was prompt and efficient.,positive,Delivery
+The product is overpriced.,negative,Value for Money
+Service was not satisfactory.,negative,Customer Service
+The overall experience was positive.,positive,Overall Experience
+Delivery was a bit slow.,neutral,Delivery
+The overall experience was excellent.,positive,Overall Experience
+This purchase was not worth it.,negative,Value for Money
+"Fantastic experience, will definitely buy again!",positive,Overall Experience
+The product works as advertised.,positive,Functionality
+Delivery was quicker than I expected.,positive,Delivery
+I'm happy with the overall experience.,positive,Overall Experience
+The product quality is mediocre.,neutral,Product Quality
+The overall experience was fantastic.,positive,Overall Experience
+Customer service was unresponsive.,negative,Customer Service
+The product did not meet my standards.,negative,Product Quality
+The value for money is poor.,negative,Value for Money
+Delivery was prompt and satisfactory.,positive,Delivery
+The overall experience was great.,positive,Overall Experience
+Delivery was prompt and efficient.,positive,Delivery
+I'm happy with the overall experience.,positive,Overall Experience
+Delivery was fast and efficient.,positive,Delivery
+The product quality is substandard.,negative,Product Quality
+Delivery was prompt and efficient.,positive,Delivery
+The product is good but not great.,neutral,Product Quality
+The overall experience was fine.,neutral,Overall Experience
+The overall experience was satisfactory.,neutral,Overall Experience
+I'm impressed with the design.,positive,Design
+The product is high quality.,positive,Product Quality
+The product met all my expectations.,positive,Product Quality
+Delivery was on time.,positive,Delivery
+The product quality is substandard.,negative,Product Quality
+The design is quite functional.,positive,Design
+The value for money is great.,positive,Value for Money
+The product did not meet my standards.,negative,Product Quality
+The product is high-quality.,positive,Product Quality
+The overall experience was positive.,positive,Overall Experience
+The product is excellent.,positive,Product Quality
+The product is overpriced.,negative,Value for Money
+I'm impressed with the design.,positive,Design
+Customer service was not helpful.,negative,Customer Service
+Delivery was prompt and efficient.,positive,Delivery
+Customer service was rude.,negative,Customer Service
+Delivery was a bit slow.,neutral,Delivery
+The value for money is satisfactory.,neutral,Value for Money
+I'm satisfied with the product quality.,positive,Product Quality
+"Service was okay, nothing special.",neutral,Customer Service
+Delivery was prompt and efficient.,positive,Delivery
+The overall experience was excellent.,positive,Overall Experience
+The design could be improved.,neutral,Design
+The design is quite good.,positive,Design
+The product quality is mediocre.,neutral,Product Quality
+The design is quite good.,positive,Design
+The product works as advertised.,positive,Functionality
+The product is of poor quality.,negative,Product Quality
+This is a decent product for its price.,neutral,Value for Money
+Service was not up to par.,negative,Customer Service
+The product is very reliable.,positive,Durability
+The value for money is satisfactory.,neutral,Value for Money
+The design is elegant and modern.,positive,Design
+I recommend this service to everyone.,positive,Recommendation
+Customer service was rude.,negative,Customer Service
+The product quality is below average.,negative,Product Quality
+The overall experience was not good.,negative,Overall Experience
+The product performs very well.,positive,Functionality
+Delivery was a bit slow.,neutral,Delivery
+The design is quite functional.,positive,Design
+Customer service was not helpful.,negative,Customer Service
+Customer service was not helpful.,negative,Customer Service
+Delivery was prompt and satisfactory.,positive,Delivery
+Service was not up to par.,negative,Customer Service
+The product exceeded my expectations.,positive,Product Quality
+The product is high quality.,positive,Product Quality
+The overall experience was fantastic.,positive,Overall Experience
+The product quality is outstanding.,positive,Product Quality
+I'm disappointed with the customer service.,negative,Customer Service
+The product is excellent.,positive,Product Quality
+The value for money is poor.,negative,Value for Money
+Customer service was rude.,negative,Customer Service
+Customer service was slow.,negative,Customer Service
+The value for money is satisfactory.,neutral,Value for Money
+The overall experience was satisfactory.,neutral,Overall Experience
+Delivery was efficient.,positive,Delivery
+The product is high quality.,positive,Product Quality
+The product is high quality.,positive,Product Quality
+"Service was okay, nothing special.",neutral,Customer Service
+The value for money is satisfactory.,neutral,Value for Money
+The product is very reliable.,positive,Durability
+The product performs very well.,positive,Functionality
+I'm very happy with the purchase.,positive,Overall Experience
+The quality of the product could be better.,neutral,Product Quality
+The design is very practical.,positive,Design
+Delivery took longer than promised.,negative,Delivery
+Customer service needs improvement.,negative,Customer Service
+I'm happy with the overall experience.,positive,Overall Experience
+Customer service needs improvement.,negative,Customer Service
+I'm very happy with the purchase.,positive,Overall Experience
+"Service was fine, not great.",neutral,Customer Service
+Customer service needs improvement.,negative,Customer Service
+The overall experience was okay.,neutral,Overall Experience
+The design is very attractive.,positive,Design
+The value for money is reasonable.,positive,Value for Money
+The value for money is poor.,negative,Value for Money
+The overall experience was not good.,negative,Overall Experience
+The product met all my expectations.,positive,Product Quality
+The overall experience was not good.,negative,Overall Experience
+Delivery was prompt and efficient.,positive,Delivery
+The value for money is reasonable.,positive,Value for Money
+The product is overpriced.,negative,Value for Money
+"Fast shipping, product arrived in good condition.",positive,Delivery
+I'm satisfied with the product quality.,positive,Product Quality
+Delivery was fast and efficient.,positive,Delivery
+The design is very attractive.,positive,Design
+The design is quite functional.,positive,Design
+The value for money is reasonable.,positive,Value for Money
+The product is highly functional.,positive,Functionality
+The product did not meet my standards.,negative,Product Quality
+I'm satisfied with the product quality.,positive,Product Quality
+Delivery was prompt and efficient.,positive,Delivery
+The design is quite good.,positive,Design
+Service was acceptable.,neutral,Customer Service
+Customer service was not helpful.,negative,Customer Service
+The product works as advertised.,positive,Functionality
+Delivery was prompt and efficient.,positive,Delivery
+I'm happy with the overall experience.,positive,Overall Experience
+The product is not durable.,negative,Durability
+Service was quick and responsive.,positive,Customer Service
+Delivery was fast and efficient.,positive,Delivery
+The overall experience was disappointing.,negative,Overall Experience
+The overall experience was fantastic.,positive,Overall Experience
+The product is overpriced.,negative,Value for Money
+The product is very reliable.,positive,Durability
+The design is quite functional.,positive,Design
+The overall experience was positive.,positive,Overall Experience
+The product is of low quality.,negative,Product Quality
+Service was acceptable.,neutral,Customer Service
+The design is quite functional.,positive,Design
+The overall experience was satisfactory.,neutral,Overall Experience
+The product is not durable.,negative,Durability
+The value for money is not good.,negative,Value for Money
+The product quality is mediocre.,neutral,Product Quality
+The product is high quality.,positive,Product Quality
+Delivery was a bit slow.,neutral,Delivery
+The overall experience was fine.,neutral,Overall Experience
+Customer service needs improvement.,negative,Customer Service
+The product quality is outstanding.,positive,Product Quality
+The value for money is satisfactory.,neutral,Value for Money
+Delivery was quicker than I expected.,positive,Delivery
+Service was not satisfactory.,negative,Customer Service
+The product works just as expected.,positive,Product Quality
+I'm very happy with the purchase.,positive,Overall Experience
+Delivery was prompt and efficient.,positive,Delivery
+The product is of excellent quality.,positive,Product Quality
+The overall experience was okay.,neutral,Overall Experience
+Delivery was fast and efficient.,positive,Delivery
+The overall experience was okay.,neutral,Overall Experience
+"Service was okay, nothing special.",neutral,Customer Service
+The overall experience was fine.,neutral,Overall Experience
+Customer service was not helpful.,negative,Customer Service
+The value for money is excellent.,positive,Value for Money
+The overall experience was satisfactory.,neutral,Overall Experience
+The product is not durable.,negative,Durability
+The product quality is substandard.,negative,Product Quality
+The product is very reliable.,positive,Durability
+Delivery was quicker than I expected.,positive,Delivery
+Service was not up to par.,negative,Customer Service
+Delivery was quicker than I expected.,positive,Delivery
+I'm impressed with the design.,positive,Design
+Customer service was slow.,negative,Customer Service
+An overall mediocre experience.,neutral,Overall Experience
+I'm satisfied with the new design.,positive,Design
+The design is very practical.,positive,Design
+The value for money is not good.,negative,Value for Money
+The product met all my expectations.,positive,Product Quality
+The product exceeded my expectations.,positive,Product Quality
+The overall experience was fine.,neutral,Overall Experience
+"Service was okay, nothing special.",neutral,Customer Service
+Customer service was not responsive.,negative,Customer Service
+I found the product to be very useful.,positive,Functionality
+Service was acceptable.,neutral,Customer Service
+"Service was average, not too bad.",neutral,Customer Service
+Delivery was fast and efficient.,positive,Delivery
+The design is very attractive.,positive,Design
+The design is very practical.,positive,Design
+The design is quite functional.,positive,Design
+Customer service was not helpful.,negative,Customer Service
+Delivery was on time.,positive,Delivery
+The product works as advertised.,positive,Functionality
+The value for money is reasonable.,positive,Value for Money
+The overall experience was okay.,neutral,Overall Experience
+Service was quick and responsive.,positive,Customer Service
+The overall experience was not good.,negative,Overall Experience
+Customer service was rude.,negative,Customer Service
+The design is modern and sleek.,positive,Design
+The product quality is mediocre.,neutral,Product Quality
+The product has a sleek design.,positive,Design
+The overall experience was excellent.,positive,Overall Experience
+The overall experience was okay.,neutral,Overall Experience
+Delivery was fast and efficient.,positive,Delivery
+The overall experience was okay.,neutral,Overall Experience
+The value for money is excellent.,positive,Value for Money
+I'm impressed with the design.,positive,Design
+The product is of poor quality.,negative,Product Quality
+The design is very practical.,positive,Design
+Service was quick and helpful.,positive,Customer Service
+The product quality is mediocre.,neutral,Product Quality
+I'm impressed with the design.,positive,Design
+Delivery was prompt and efficient.,positive,Delivery
+The design is modern and sleek.,positive,Design
+The product is very reliable.,positive,Durability
+Customer service was rude and unhelpful.,negative,Customer Service
+The product quality is remarkable.,positive,Product Quality
+Customer service was not responsive.,negative,Customer Service
+"The product is okay, not great.",neutral,Product Quality
+The design is very attractive.,positive,Design
+The product is very reliable.,positive,Durability
+Delivery was a bit slow but acceptable.,neutral,Delivery
+The overall experience was okay.,neutral,Overall Experience
+Customer service was not responsive.,negative,Customer Service
+The product is of poor quality.,negative,Product Quality
+Delivery was fast and efficient.,positive,Delivery
+The product quality is substandard.,negative,Product Quality
+The product is of poor quality.,negative,Product Quality
+The product meets all my needs.,positive,Product Quality
+Customer service was below average.,negative,Customer Service
+The overall experience was satisfactory.,neutral,Overall Experience
+The value for money is reasonable.,positive,Value for Money
+Service was quick and responsive.,positive,Customer Service
+The overall experience was positive.,positive,Overall Experience
+I'm very happy with the purchase.,positive,Overall Experience
+Customer service was not helpful.,negative,Customer Service
+The overall experience was excellent.,positive,Overall Experience
+The value for money is reasonable.,positive,Value for Money
+Service was quick and responsive.,positive,Customer Service
+Delivery was on time.,positive,Delivery
+The design is very attractive.,positive,Design
+"Service was fine, not great.",neutral,Customer Service
+I'm not happy with the value for the price.,negative,Value for Money
+Delivery was a bit slow.,neutral,Delivery
+The product works perfectly.,positive,Functionality
+Customer service was slow.,negative,Customer Service
+The product is excellent.,positive,Product Quality
+The overall experience was fine.,neutral,Overall Experience
+The product met all my expectations.,positive,Product Quality
+Delivery was on time.,positive,Delivery
+"Fantastic experience, will definitely buy again!",positive,Overall Experience
+The value for money is great.,positive,Value for Money
+Customer service was not responsive.,negative,Customer Service
+The overall experience was positive.,positive,Overall Experience
+The product is very reliable.,positive,Durability
+The product is very reliable.,positive,Durability
+Service was acceptable.,neutral,Customer Service
+The overall experience was just okay.,neutral,Overall Experience
+The product is excellent.,positive,Product Quality
+The value for money is not good.,negative,Value for Money
+Delivery was fast and efficient.,positive,Delivery
+The product quality is fantastic.,positive,Product Quality
+Customer service needs improvement.,negative,Customer Service
+Customer service was rude.,negative,Customer Service
+Service was not satisfactory.,negative,Customer Service
+I'm impressed with the design.,positive,Design
+The overall experience was fine.,neutral,Overall Experience
+The value for money is reasonable.,positive,Value for Money
+The overall experience was excellent.,positive,Overall Experience
+Customer service was unresponsive.,negative,Customer Service
+"Service was okay, could be improved.",neutral,Customer Service
+The design is very practical.,positive,Design
+I'm impressed with the design.,positive,Design
+The value for money is satisfactory.,neutral,Value for Money
+"Service was satisfactory, not great.",neutral,Customer Service
+The value for money is reasonable.,positive,Value for Money
+I'm happy with the overall experience.,positive,Overall Experience
+The overall experience was fine.,neutral,Overall Experience
+Delivery was fast and efficient.,positive,Delivery
+The design is modern and sleek.,positive,Design
+Delivery was quicker than I expected.,positive,Delivery
+The value for money is reasonable.,positive,Value for Money
+Delivery was a bit slow.,neutral,Delivery
+I'm very happy with the purchase.,positive,Overall Experience
+The overall experience was excellent.,positive,Overall Experience
+Customer service was not helpful.,negative,Customer Service
+The overall experience was not good.,negative,Overall Experience
+Service was quick and responsive.,positive,Customer Service
+This is the best thing I have ever bought.,positive,Overall Experience
+The quality of the product is disappointing.,negative,Product Quality
+The product met all my expectations.,positive,Product Quality
+I'm satisfied with the product quality.,positive,Product Quality
+The value for money is not great.,negative,Value for Money
+The value for money is great.,positive,Value for Money
+Customer service was not helpful.,negative,Customer Service
+Delivery was a bit slow.,neutral,Delivery
+The product is very reliable.,positive,Durability
+The overall experience was positive.,positive,Overall Experience
+Delivery was a bit slow.,neutral,Delivery
+The value for money is excellent.,positive,Value for Money
+I'm very happy with the purchase.,positive,Overall Experience
+Service was neither good nor bad.,neutral,Customer Service
+Service was not satisfactory.,negative,Customer Service
+The product is of poor quality.,negative,Product Quality
+Delivery was efficient.,positive,Delivery
+The product is high quality.,positive,Product Quality
+The design is quite functional.,positive,Design
+"Service was okay, nothing special.",neutral,Customer Service
+Customer service resolved my issue quickly.,positive,Customer Service
+The overall experience was okay.,neutral,Overall Experience
+Customer service needs improvement.,negative,Customer Service
+The overall experience was excellent.,positive,Overall Experience
+The product met all my expectations.,positive,Product Quality
+Delivery was prompt and efficient.,positive,Delivery
+Service was not up to par.,negative,Customer Service
+The design is very practical.,positive,Design
+The product works as advertised.,positive,Functionality
+Delivery was prompt and efficient.,positive,Delivery
+The product is not durable.,negative,Durability
+The product met all my expectations.,positive,Product Quality
+The design is quite good.,positive,Design
+Delivery was on time.,positive,Delivery
+The product is overpriced.,negative,Value for Money
+The product quality is substandard.,negative,Product Quality
+"Service was fine, not great.",neutral,Customer Service
+"Fantastic experience, will definitely buy again!",positive,Overall Experience
+The product met all my expectations.,positive,Product Quality
+I'm impressed with the design.,positive,Design
+Very satisfied with the purchase.,positive,Product Quality
+Delivery was quicker than I expected.,positive,Delivery
+Delivery was prompt and efficient.,positive,Delivery
+The product is very reliable.,positive,Durability
+The overall experience was fine.,neutral,Overall Experience
+The product did not meet my standards.,negative,Product Quality
+The product met all my expectations.,positive,Product Quality
+The product is very reliable.,positive,Durability
+The product performs very well.,positive,Functionality
+The value for money is subpar.,negative,Value for Money
+The product is not durable.,negative,Durability
+Service was not satisfactory.,negative,Customer Service
+The overall experience was satisfactory.,neutral,Overall Experience
+Customer service needs to be more responsive.,negative,Customer Service
+I'm satisfied with the product quality.,positive,Product Quality
+The overall experience was fantastic.,positive,Overall Experience
+The design is quite good.,positive,Design
+The overall experience was disappointing.,negative,Overall Experience
+Customer service was rude.,negative,Customer Service
+Delivery was quicker than I expected.,positive,Delivery
+The product is overpriced.,negative,Value for Money
+Service was acceptable.,neutral,Customer Service
+The product met all my expectations.,positive,Product Quality
+Customer service needs to be better.,negative,Customer Service
+The product is of poor quality.,negative,Product Quality
+I'm very happy with the purchase.,positive,Overall Experience
+The value for money is not good.,negative,Value for Money
+The design is very practical.,positive,Design
+The value for money is satisfactory.,neutral,Value for Money
+The product works as advertised.,positive,Functionality
+The overall experience was fantastic.,positive,Overall Experience
+Service was not up to par.,negative,Customer Service
+"Service was satisfactory, not great.",neutral,Customer Service
+The product is not durable.,negative,Durability
+Delivery was on time.,positive,Delivery
+The product is excellent.,positive,Product Quality
+The value for money is great.,positive,Value for Money
+"Service was fine, not great.",neutral,Customer Service
+Service was not satisfactory.,negative,Customer Service
+Service was not up to the mark.,negative,Customer Service
+Customer service was not responsive.,negative,Customer Service
+Product stopped working after a week.,negative,Durability
+The product is very reliable.,positive,Durability
+Delivery was fast and efficient.,positive,Delivery
+The value for money is poor.,negative,Value for Money
+The product met all my expectations.,positive,Product Quality
+Delivery was a day late.,negative,Delivery
+The product is overpriced.,negative,Value for Money
+I'm very happy with the purchase.,positive,Overall Experience
+The product is very reliable.,positive,Durability
+Customer service was rude.,negative,Customer Service
+Service was acceptable.,neutral,Customer Service
+Delivery was a bit slow.,neutral,Delivery
+The product is very reliable.,positive,Durability
+The design is quite good.,positive,Design
+The product is of poor quality.,negative,Product Quality
+Customer service was slow.,negative,Customer Service
+The product met all my expectations.,positive,Product Quality
+The overall experience was fine.,neutral,Overall Experience
+Service was acceptable.,neutral,Customer Service
+The product is very reliable.,positive,Durability
+The overall experience was positive.,positive,Overall Experience
+The overall experience was excellent.,positive,Overall Experience
+The value for money is great.,positive,Value for Money
+The overall experience was not good.,negative,Overall Experience
+Service was not up to par.,negative,Customer Service
+The product quality is outstanding.,positive,Product Quality
+The product quality is substandard.,negative,Product Quality
+Customer service was unresponsive.,negative,Customer Service
+The value for money is satisfactory.,neutral,Value for Money
+Service was not up to par.,negative,Customer Service
+Delivery was quicker than I expected.,positive,Delivery
+The overall experience was satisfactory.,neutral,Overall Experience
+I'm very happy with the purchase.,positive,Overall Experience
+I'm impressed with the design.,positive,Design
+The product works as advertised.,positive,Functionality
+The product is high quality.,positive,Product Quality
+The product performs very well.,positive,Functionality
+I'm impressed with the design.,positive,Design
+The overall experience was fine.,neutral,Overall Experience
+The product is excellent.,positive,Product Quality
+The design is very attractive.,positive,Design
+The value for money is satisfactory.,neutral,Value for Money
+The product quality is mediocre.,neutral,Product Quality
+The overall experience was satisfactory.,neutral,Overall Experience
+The value for money is satisfactory.,neutral,Value for Money
+The product is very reliable.,positive,Durability
+The product is very reliable.,positive,Durability
+The overall experience was below expectations.,negative,Overall Experience
+The overall experience was satisfactory.,neutral,Overall Experience
+The product quality is substandard.,negative,Product Quality
+The overall experience was positive.,positive,Overall Experience
+Customer service was not responsive.,negative,Customer Service
+The design is modern and sleek.,positive,Design
+The value for money is satisfactory.,neutral,Value for Money
+I'm impressed with the design.,positive,Design
+I'm impressed with the design.,positive,Design
+I'm very happy with the purchase.,positive,Overall Experience
+Delivery was fast and efficient.,positive,Delivery
+The design is very attractive.,positive,Design
+Delivery was fast and efficient.,positive,Delivery
+Service was not up to par.,negative,Customer Service
+The delivery was delayed and I'm disappointed.,negative,Delivery
+The product is not durable.,negative,Durability
+The product is overpriced.,negative,Value for Money
+Customer service was slow.,negative,Customer Service
+Not getting the value I expected for my money.,negative,Value for Money
+The product quality is outstanding.,positive,Product Quality
+The overall experience was satisfactory.,neutral,Overall Experience
+The value for money is subpar.,negative,Value for Money
+I'm impressed with the design.,positive,Design
+The overall experience was excellent.,positive,Overall Experience
+Customer service was not responsive.,negative,Customer Service
+The overall experience was satisfactory.,neutral,Overall Experience
+The value for money is not good.,negative,Value for Money
+Service was acceptable.,neutral,Customer Service
+The product is of poor quality.,negative,Product Quality
+The overall experience was not good.,negative,Overall Experience
+The product quality is outstanding.,positive,Product Quality
+The product works perfectly.,positive,Functionality
+The product is of poor quality.,negative,Product Quality
+The product is overpriced.,negative,Value for Money
+Service was not satisfactory.,negative,Customer Service
+Customer service needs improvement.,negative,Customer Service
+The product performs very well.,positive,Functionality
+I'm satisfied with the product quality.,positive,Product Quality
+The product performs very well.,positive,Functionality
+Service was not satisfactory.,negative,Customer Service
+The overall experience was not good.,negative,Overall Experience
+The product quality is mediocre.,neutral,Product Quality
+The product works as advertised.,positive,Functionality
+The product exceeded my expectations.,positive,Product Quality
+The product works perfectly.,positive,Functionality
+The product is excellent.,positive,Product Quality
+The value for money is great.,positive,Value for Money
+The value for money is great.,positive,Value for Money
+The product did not meet my standards.,negative,Product Quality
+Customer service was not responsive.,negative,Customer Service
+Service was not up to par.,negative,Customer Service
+The overall experience was not good.,negative,Overall Experience
+The design is modern and sleek.,positive,Design
+The product works perfectly.,positive,Functionality
+The product is very reliable.,positive,Durability
+The product performs very well.,positive,Functionality
+The product is overpriced.,negative,Value for Money
+The overall experience was fantastic.,positive,Overall Experience
+Delivery was prompt and efficient.,positive,Delivery
+The value for money is reasonable.,positive,Value for Money
+Customer service needs improvement.,negative,Customer Service
+I'm impressed with the design.,positive,Design
+The overall experience was positive.,positive,Overall Experience
+Delivery was quicker than I expected.,positive,Delivery
+Customer service was not helpful.,negative,Customer Service
+Customer service was rude.,negative,Customer Service
+Customer service was rude and unhelpful.,negative,Customer Service
+Delivery was quicker than I expected.,positive,Delivery
+Delivery was prompt and efficient.,positive,Delivery
+Service was not up to par.,negative,Customer Service
+Customer service was not responsive.,negative,Customer Service
+Delivery was on time.,positive,Delivery
+The product quality is substandard.,negative,Product Quality
+Delivery was fast and efficient.,positive,Delivery
+The design is quite functional.,positive,Design
+The overall experience was great.,positive,Overall Experience
+The design is quite functional.,positive,Design
+"Service was fine, not great.",neutral,Customer Service
+The overall experience was satisfactory.,neutral,Overall Experience
+The product did not meet my standards.,negative,Product Quality
+The overall experience was excellent.,positive,Overall Experience
+Service was not up to par.,negative,Customer Service
+Delivery was fast and efficient.,positive,Delivery
+Delivery was prompt and satisfactory.,positive,Delivery
+Delivery was quicker than I expected.,positive,Delivery
+Customer service was not helpful.,negative,Customer Service
+The overall experience was not good.,negative,Overall Experience
+The overall experience was fine.,neutral,Overall Experience
+Service was not up to par.,negative,Customer Service
+The overall experience was fine.,neutral,Overall Experience
+Service was acceptable.,neutral,Customer Service
+The product is very reliable.,positive,Durability
+Delivery was on time.,positive,Delivery
+The design is very attractive.,neutral,Design
+The design is very attractive.,positive,Design
+The product is of poor quality.,negative,Product Quality
+The design is average.,neutral,Design
+The design is modern and sleek.,positive,Design
+The design is quite good.,positive,Design
+I found the product to be very useful.,positive,Functionality
+The value for money is poor.,negative,Value for Money
+The overall experience was satisfactory.,neutral,Overall Experience
+The product is not reliable.,negative,Durability
+Delivery was prompt and efficient.,positive,Delivery
+I'm satisfied with the product quality.,positive,Product Quality
+The overall experience was satisfactory.,neutral,Overall Experience
+The product is excellent.,positive,Product Quality
+The product did not meet my standards.,negative,Product Quality
+The value for money is poor.,negative,Value for Money
+The overall experience was not good.,negative,Overall Experience
+The overall experience was excellent.,positive,Overall Experience
+The value for money is not great.,negative,Value for Money
+I'm thrilled with the value I received.,positive,Value for Money
+The product is overpriced.,negative,Value for Money
+Delivery was a bit slow.,neutral,Delivery
+The product is overpriced.,negative,Value for Money
+I'm satisfied with the product quality.,positive,Product Quality
+The design is quite functional.,positive,Design
+Service was not up to par.,negative,Customer Service
+The design is quite functional.,positive,Design
+The product works as advertised.,positive,Functionality
+The product performs very well.,positive,Functionality
+Customer service was slow.,negative,Customer Service
+"Service was fine, not great.",neutral,Customer Service
+The value for money is satisfactory.,neutral,Value for Money
+The product is overpriced.,negative,Value for Money
+Customer service needs improvement.,negative,Customer Service
+Service was poor and unhelpful.,negative,Customer Service
+"Service was great, will come back again.",positive,Customer Service
+The website layout is clean and modern.,positive,Design
+The product quality is mediocre.,neutral,Product Quality
+"Service was okay, nothing special.",neutral,Customer Service
+Customer service needs improvement.,negative,Customer Service
+The product quality is outstanding.,positive,Product Quality
+The value for money is reasonable.,positive,Value for Money
+Service was quick and responsive.,positive,Customer Service
+I'm satisfied with the product quality.,positive,Product Quality
+The product met all my expectations.,positive,Product Quality
+The product performs very well.,positive,Functionality
+The design is quite good.,positive,Design
+The product works perfectly.,positive,Functionality
+Delivery was fast and efficient.,positive,Delivery
+Service was quick and responsive.,positive,Customer Service
+The overall experience was okay.,neutral,Overall Experience
+Not impressed with the quality for the price.,negative,Value for Money
+The overall experience was not good.,negative,Overall Experience
+Delivery was fast and efficient.,positive,Delivery
+Customer service was mediocre.,neutral,Customer Service
+I'm satisfied with the product quality.,positive,Product Quality
+Delivery was on time.,positive,Delivery
+The design is quite good.,positive,Design
+Customer service needs improvement.,negative,Customer Service
+The product performs very well.,positive,Functionality
+The value for money is poor.,negative,Value for Money
+The design is modern and sleek.,positive,Design
+The overall experience was not good.,negative,Overall Experience
+Delivery was a day late.,negative,Delivery
+The overall experience was satisfactory.,neutral,Overall Experience
+The value for money is satisfactory.,neutral,Value for Money
+The product is very durable.,positive,Durability
+Customer service needs to be better.,negative,Customer Service
+"Service was fine, not great.",neutral,Customer Service
+The design is very practical.,positive,Design
+The value for money is reasonable.,positive,Value for Money
+The product performs very well.,positive,Functionality
+The product quality is outstanding.,positive,Product Quality
+Customer service was rude.,negative,Customer Service
+The overall experience was not good.,negative,Overall Experience
+The product works perfectly.,positive,Functionality
+The overall experience was satisfactory.,neutral,Overall Experience
+"Service was okay, nothing special.",neutral,Customer Service
+The product met all my expectations.,positive,Product Quality
+Customer service was slow.,negative,Customer Service
+The value for money is satisfactory.,neutral,Value for Money
+The product quality is outstanding.,positive,Product Quality
+The product quality is outstanding.,positive,Product Quality
+The design is quite good.,positive,Design
+Customer service needs improvement.,negative,Customer Service
+Customer service needs improvement.,negative,Customer Service
+The value for money is poor.,negative,Value for Money
+The value for money is reasonable.,positive,Value for Money
+Customer service was slow.,negative,Customer Service
+The overall experience was satisfactory.,neutral,Overall Experience
+Customer service was rude.,negative,Customer Service
+"Service was average, not too bad.",neutral,Customer Service
+I'm happy with the overall purchase.,positive,Overall Experience
+The product is very durable.,positive,Durability
+The product is excellent.,positive,Product Quality
+The product is overpriced.,negative,Value for Money
+The product is of poor quality.,negative,Product Quality
+The product quality is substandard.,negative,Product Quality
+The overall experience was disappointing.,negative,Overall Experience
+The overall experience was satisfactory.,neutral,Overall Experience
+The product is very reliable.,positive,Durability
+The product quality is outstanding.,positive,Product Quality
+The product met all my expectations.,positive,Product Quality
+The overall experience was excellent.,positive,Overall Experience
+The product is not durable.,negative,Durability
+The product is excellent.,positive,Product Quality
+The value for money is great.,positive,Value for Money
+Customer service needs to be better.,negative,Customer Service
+The product is excellent.,positive,Product Quality
+Delivery was a bit slow.,neutral,Delivery
+The value for money is not good.,negative,Value for Money
+I'm satisfied with the product quality.,positive,Product Quality
+"The delivery was on time, nothing special.",neutral,Delivery
+I'm happy with the overall purchase.,positive,Overall Experience
+Customer service was not helpful.,negative,Customer Service
+Customer service was not helpful.,negative,Customer Service
+The design is very practical.,positive,Design
+The overall experience was not good.,negative,Overall Experience
+"Service was fine, not great.",neutral,Customer Service
+Customer service needs improvement.,negative,Customer Service
+Not worth the money.,negative,Value for Money
+The product met all my expectations.,positive,Product Quality
+Delivery was on time.,positive,Delivery
+Delivery was quicker than I expected.,positive,Delivery
+I'm impressed with the design.,positive,Design
+The product is very reliable.,positive,Durability
+A decent overall experience.,neutral,Overall Experience
+Delivery was a bit slow.,neutral,Delivery
+The overall experience was satisfactory.,neutral,Overall Experience
+The product is high quality.,positive,Product Quality
+Customer service was slow.,negative,Customer Service
+"Service was fine, not great.",neutral,Customer Service
+Service was acceptable.,neutral,Customer Service
+I'm impressed with the design.,positive,Design
+Customer service needs improvement.,negative,Customer Service
+The product works perfectly.,positive,Functionality
+The value for money is reasonable.,positive,Value for Money
+The value for money is just okay.,neutral,Value for Money
+The product works perfectly.,positive,Functionality
+Customer service was not responsive.,negative,Customer Service
+I'm happy with the overall purchase.,positive,Overall Experience
+The product is high quality.,positive,Product Quality
+I'm happy with the product quality.,positive,Product Quality
+I'm impressed with the design.,positive,Design
+The overall experience was satisfactory.,neutral,Overall Experience
+Customer service was not helpful.,negative,Customer Service
+The overall experience was fine.,neutral,Overall Experience
+I'm very happy with the purchase.,positive,Overall Experience
+"Service was okay, nothing special.",neutral,Customer Service
+The product is not durable.,negative,Durability
+The product works well and is reliable.,positive,Functionality
+The product quality is outstanding.,positive,Product Quality
+The design is very attractive.,positive,Design
+The design is very appealing.,positive,Design
+The overall experience was excellent.,positive,Overall Experience
+The product quality is outstanding.,positive,Product Quality
+I'm very happy with the purchase.,positive,Overall Experience
+The value for money is great.,positive,Value for Money
+The product works as advertised.,positive,Functionality
+The product is very reliable.,positive,Durability
+The product is of poor quality.,negative,Product Quality
+I'm not impressed with the service.,negative,Customer Service
+The product met all my expectations.,positive,Product Quality
+The product quality is mediocre.,neutral,Product Quality
+I'm very satisfied with my purchase.,positive,Overall Experience
+The product is high quality.,positive,Product Quality
+The product is of poor quality.,negative,Product Quality
+The overall experience was fine.,neutral,Overall Experience
+The overall experience was below expectations.,negative,Overall Experience
+An overall good experience.,positive,Overall Experience
+The product is overpriced.,negative,Value for Money
+Delivery was prompt and efficient.,positive,Delivery
+The product met all my expectations.,positive,Product Quality
+"Service was fine, but could be faster.",neutral,Customer Service
+Service was quick and responsive.,positive,Customer Service
+The product is very reliable.,positive,Durability
+The overall experience was positive.,positive,Overall Experience
+Not impressed with the quality for the price.,negative,Value for Money
+The product quality is substandard.,negative,Product Quality
+"Fast shipping, product arrived in good condition.",positive,Delivery
+Delivery was timely and efficient.,positive,Delivery
+The value for money is not good.,negative,Value for Money
+The product works as advertised.,positive,Functionality
+"Service was fine, not great.",neutral,Customer Service
+Customer service needs improvement.,negative,Customer Service
+Delivery was fast and efficient.,positive,Delivery
+The value for money is great.,positive,Value for Money
+Customer service was slow.,negative,Customer Service
+The value for money is great.,positive,Value for Money
+The design is very attractive.,positive,Design
+The overall experience was not good.,negative,Overall Experience
+Service was neither good nor bad.,neutral,Customer Service
+The design is very practical.,positive,Design
+The product exceeded my expectations.,positive,Product Quality
+Service was acceptable.,neutral,Customer Service
+Very satisfied with the purchase.,positive,Product Quality
+I had a great shopping experience.,positive,Overall Experience
+Service was not up to par.,negative,Customer Service
+I'm very happy with the purchase.,positive,Overall Experience
+The value for money is great.,positive,Value for Money
+The product is overpriced.,negative,Value for Money
+The product quality is mediocre.,neutral,Product Quality
+Service was not up to par.,negative,Customer Service
+The product is excellent.,positive,Product Quality
+The product is not durable.,negative,Durability
+The product quality is outstanding.,positive,Product Quality
+Customer service was rude.,negative,Customer Service
+Service was not satisfactory.,negative,Customer Service
+Delivery was a bit slow but acceptable.,neutral,Delivery
+The design is modern and sleek.,positive,Design
+The product is excellent.,positive,Product Quality
+The value for money is poor.,negative,Value for Money
+The value for money is good.,positive,Value for Money
+Delivery was prompt and efficient.,positive,Delivery
+"Service was okay, could be better.",neutral,Customer Service
+The product is high quality.,positive,Product Quality
+The overall experience was okay.,neutral,Overall Experience
+"Service was fine, but could be faster.",neutral,Customer Service
+The overall experience was fine.,neutral,Overall Experience
+Customer service was slow.,negative,Customer Service
+The product quality is outstanding.,positive,Product Quality
+Delivery was prompt and efficient.,positive,Delivery
+The design is quite good.,positive,Design
+The overall experience was excellent.,positive,Overall Experience
+The product is satisfactory for its cost.,neutral,Product Quality
+Delivery was fast and efficient.,positive,Delivery
+Customer service was not helpful.,negative,Customer Service
+Customer service was rude.,negative,Customer Service
+Customer service needs improvement.,negative,Customer Service
+Customer service was slow.,negative,Customer Service
+Service was acceptable.,neutral,Customer Service
+Service was not satisfactory.,negative,Customer Service
+The product is highly functional.,positive,Functionality
+Customer service was rude and unhelpful.,negative,Customer Service
+The product met all my expectations.,positive,Product Quality
+The product did not last long.,negative,Durability
+The product performs very well.,positive,Functionality
+The product is very reliable.,positive,Durability
+Customer service needs improvement.,negative,Customer Service
+The overall experience was okay.,neutral,Overall Experience
+The value for money is not good.,negative,Value for Money
+The product quality is substandard.,negative,Product Quality
+The product quality is outstanding.,positive,Product Quality
+The design is very practical.,positive,Design
+The overall experience was fine.,neutral,Overall Experience
+The product quality is outstanding.,positive,Product Quality
+I'm satisfied with the product quality.,positive,Product Quality
+"Service was okay, nothing special.",neutral,Customer Service
+Service was not satisfactory.,negative,Customer Service
+The overall experience was okay.,neutral,Overall Experience
+Service was not satisfactory.,negative,Customer Service
+The design is very attractive.,positive,Design
+The overall experience was disappointing.,negative,Overall Experience
+The product quality is mediocre.,neutral,Product Quality
+Customer service was rude.,negative,Customer Service
+Delivery was on time.,positive,Delivery
+The value for money is satisfactory.,neutral,Value for Money
+The product did not meet my standards.,negative,Product Quality
+The overall experience was satisfactory.,neutral,Overall Experience
+Customer service was rude.,negative,Customer Service
+Delivery was a bit slow.,neutral,Delivery
+"Service was okay, could be better.",neutral,Customer Service
+"Customer service was average, nothing to complain about.",neutral,Customer Service
+The product is excellent.,positive,Product Quality
+The value for money is poor.,negative,Value for Money
+The value for money is not good.,negative,Value for Money
+I'm impressed with the design.,positive,Design
+The design is quite good.,positive,Design
+The value for money is not good.,negative,Value for Money
+The design is quite functional.,positive,Design
+The overall experience was satisfactory.,neutral,Overall Experience
+The product is very reliable.,positive,Durability
+The product met all my expectations.,positive,Product Quality
+The value for money is not good.,negative,Value for Money
+The product performs very well.,positive,Functionality
+Customer service was rude.,negative,Customer Service
+The product quality is mediocre.,neutral,Product Quality
+I'm satisfied with the new design.,positive,Design
+I'm impressed with the design.,positive,Design
+The product works as advertised.,positive,Functionality
+"Service was okay, nothing special.",neutral,Customer Service
+The product quality is substandard.,negative,Product Quality
+The value for money is not good.,negative,Value for Money
+Customer service needs improvement.,negative,Customer Service
+Delivery was prompt and efficient.,positive,Delivery
+Service was not satisfactory.,negative,Customer Service
+The product quality is substandard.,negative,Product Quality
+The overall experience was excellent.,positive,Overall Experience
+The product quality is mediocre.,neutral,Product Quality
+The overall experience was okay.,neutral,Overall Experience
+The overall experience was positive.,positive,Overall Experience
+The design is very attractive.,positive,Design
+The product performs very well.,positive,Functionality
+I'm impressed with the design.,positive,Design
+The value for money is reasonable.,positive,Value for Money
+The product is excellent.,positive,Product Quality
+The product works perfectly.,positive,Functionality
+The product is high quality.,positive,Product Quality
+Delivery was a bit slow but acceptable.,neutral,Delivery
+The value for money is not good.,negative,Value for Money
+The product works perfectly.,positive,Functionality
+The overall experience was positive.,positive,Overall Experience
+Delivery was on time.,positive,Delivery
+The design is very attractive.,positive,Design
+The product is of poor quality.,negative,Product Quality
+The overall experience was fine.,neutral,Overall Experience
+The design is quite functional.,positive,Design
+The overall experience was fine.,neutral,Overall Experience
+I'm satisfied with the product quality.,positive,Product Quality
+The design is modern and sleek.,positive,Design
+The product has a sleek design.,positive,Design
+Delivery was on time.,positive,Delivery
+The overall experience was positive.,positive,Overall Experience
+The product met all my expectations.,positive,Product Quality
+The overall experience was positive.,positive,Overall Experience
+Delivery was prompt and efficient.,positive,Delivery
+The overall experience was satisfactory.,neutral,Overall Experience
+"Service was fine, not great.",neutral,Customer Service
+The product met all my expectations.,positive,Product Quality
+Customer service was slow.,negative,Customer Service
+I'm satisfied with the product quality.,positive,Product Quality
+Customer service was unresponsive.,negative,Customer Service
+The product is excellent.,positive,Product Quality
+Delivery was quicker than I expected.,positive,Delivery
+The product quality is substandard.,negative,Product Quality
+The product is excellent.,positive,Product Quality
+The value for money is great.,positive,Value for Money
+The product met my expectations.,positive,Product Quality
+The design is very attractive.,positive,Design
+This is a decent product for its price.,neutral,Value for Money
+The product quality is mediocre.,neutral,Product Quality
+The overall experience was okay.,neutral,Overall Experience
+An overall excellent experience.,positive,Overall Experience
+Delivery was quicker than I expected.,positive,Delivery
+The product works as advertised.,positive,Functionality
+Customer service was slow.,negative,Customer Service
+Service was not satisfactory.,negative,Customer Service
+Customer service was not responsive.,negative,Customer Service
+This is a decent product for its price.,neutral,Value for Money
+Service was not up to par.,negative,Customer Service
+I'm happy with the overall experience.,positive,Overall Experience
+The design of the product is very sleek.,positive,Design
+The product is not durable.,negative,Durability
+The design is very attractive.,positive,Design
+Delivery was fast and efficient.,positive,Delivery
+"Delivery was on time, very happy.",positive,Delivery
+Service was acceptable.,neutral,Customer Service
+The overall experience was not good.,negative,Overall Experience
+The product is excellent.,positive,Product Quality
+The overall experience was okay.,neutral,Overall Experience
+Value for money is exceptional.,positive,Value for Money
+Service was satisfactory.,neutral,Customer Service
+The design is very attractive.,positive,Design
+Customer service was slow.,negative,Customer Service
+I'm not impressed with the new design.,negative,Design
+The product quality is mediocre.,neutral,Product Quality
+The product is very reliable.,positive,Durability
+The value for money is great.,positive,Value for Money
+The product is of superior quality.,positive,Product Quality
+The overall experience was fine.,neutral,Overall Experience
+I'm very happy with the purchase.,positive,Overall Experience
+I'm happy with the purchase.,positive,Overall Experience
+The design is very attractive.,neutral,Design
+The design is very practical.,positive,Design
+The overall experience was fantastic.,positive,Overall Experience
+Customer service was slow.,negative,Customer Service
+The product met all my expectations.,positive,Product Quality
+Service was quick and responsive.,positive,Customer Service
+"Service was fine, not great.",neutral,Customer Service
+Service was not satisfactory.,negative,Customer Service
+The product is excellent.,positive,Product Quality
+The product quality is mediocre.,neutral,Product Quality
+The product is of superior quality.,positive,Product Quality
+The product quality is substandard.,negative,Product Quality
+I'm satisfied with the product quality.,positive,Product Quality
+Customer service was slow.,negative,Customer Service
+The product is overpriced.,negative,Value for Money
+I'm happy with the product quality.,positive,Product Quality
+The value for money is great.,positive,Value for Money
+The design is quite good.,positive,Design
+The product quality is outstanding.,positive,Product Quality
+The product quality is mediocre.,neutral,Product Quality
+The overall experience was not good.,negative,Overall Experience
+The design is very attractive.,positive,Design
+The design is very functional.,positive,Design
+The overall experience was fine.,neutral,Overall Experience
+The product is not durable.,negative,Durability
+The design is very attractive.,positive,Design
+The product is overpriced.,negative,Value for Money
+Delivery was a bit slow.,neutral,Delivery
+The value for money is not good.,negative,Value for Money
+The value for money is poor.,negative,Value for Money
+Delivery was on time.,positive,Delivery
+The value for money is reasonable.,positive,Value for Money
+The overall experience was fantastic.,positive,Overall Experience
+The product met all my expectations.,positive,Product Quality
+Delivery was fast and efficient.,positive,Delivery
+The product quality is mediocre.,neutral,Product Quality
+The product is overpriced.,negative,Value for Money
+Service was quick and responsive.,positive,Customer Service
+Delivery was on time.,positive,Delivery
+The product quality is substandard.,negative,Product Quality
+The overall experience was okay.,neutral,Overall Experience
+Service was not up to par.,negative,Customer Service
+The overall experience was not good.,negative,Overall Experience
+The product works as advertised.,positive,Functionality
+The product quality is outstanding.,positive,Product Quality
+Delivery was prompt and efficient.,positive,Delivery
+I'm impressed with the design.,positive,Design
+"Service was fine, not great.",neutral,Customer Service
+The product is overpriced.,negative,Value for Money
+The value for money is reasonable.,positive,Value for Money
+Delivery was a bit slow.,neutral,Delivery
+The overall experience was satisfactory.,neutral,Overall Experience
+The overall experience was positive.,positive,Overall Experience
+The product quality is mediocre.,neutral,Product Quality
+Customer service needs improvement.,negative,Customer Service
+The overall experience was okay.,neutral,Overall Experience
+The value for money is not good.,negative,Value for Money
+The product is high quality.,positive,Product Quality
+Not worth the money.,negative,Value for Money
+Delivery was prompt and efficient.,positive,Delivery
+Delivery was a bit slow.,neutral,Delivery
+The product works perfectly.,positive,Functionality
+Service was acceptable.,neutral,Customer Service
+The overall experience was not good.,negative,Overall Experience
+Delivery was prompt and efficient.,positive,Delivery
+The product works as advertised.,positive,Functionality
+The design is quite good.,positive,Design
+The product did not meet my standards.,negative,Product Quality
+The value for money is very good.,positive,Value for Money
+Delivery was quicker than I expected.,positive,Delivery
+The product quality is substandard.,negative,Product Quality
+The product is of poor quality.,negative,Product Quality
+The overall experience was okay.,neutral,Overall Experience
+The overall experience was fantastic.,positive,Overall Experience
+The design is very attractive.,positive,Design
+The overall experience was okay.,neutral,Overall Experience
+The product quality is mediocre.,neutral,Product Quality
+The product is excellent.,positive,Product Quality
+I'm very satisfied with my purchase.,positive,Overall Experience
+The product quality is substandard.,negative,Product Quality
+I'm happy with the purchase.,positive,Overall Experience
+Delivery was fast and efficient.,positive,Delivery
+Delivery took longer than promised.,negative,Delivery
+The design is quite good.,positive,Design
+The value for money is not good.,negative,Value for Money
+The product is durable and reliable.,positive,Durability
+The value for money is great.,positive,Value for Money
+The value for money is satisfactory.,neutral,Value for Money
+I'm happy with the design improvements.,positive,Design
+Service was quick and responsive.,positive,Customer Service
+Customer service was slow.,negative,Customer Service
+Not worth the money spent.,negative,Value for Money
+The design is modern and sleek.,positive,Design
+Customer service was slow.,negative,Customer Service
+The overall experience was excellent.,positive,Overall Experience
+Delivery was a bit slow.,neutral,Delivery
+The design could be improved.,neutral,Design
+The value for money is not good.,negative,Value for Money
+Delivery time was reasonable.,neutral,Delivery
+The product works as advertised.,positive,Functionality
+The design is quite good.,positive,Design
+The value for money is reasonable.,positive,Value for Money
+The product works as advertised.,positive,Functionality
+The product performs very well.,positive,Functionality
+Delivery was on time.,positive,Delivery
+The product met all my expectations.,positive,Product Quality
+The design is very modern.,positive,Design
+An overall mediocre experience.,neutral,Overall Experience
+The product is not durable.,negative,Durability
+The design is elegant and modern.,positive,Design
+I'm very happy with the purchase.,positive,Overall Experience
+The product performs very well.,positive,Functionality
+Customer service was not helpful.,negative,Customer Service
+The overall experience was positive.,positive,Overall Experience
+The design is very practical.,positive,Design
+I'm impressed with the design.,positive,Design
+The overall experience was excellent.,positive,Overall Experience
+Delivery was prompt and efficient.,positive,Delivery
+Delivery was quicker than I expected.,positive,Delivery
+I'm happy with the overall experience.,positive,Overall Experience
+"Customer service was average, nothing to complain about.",neutral,Customer Service
+The product is of poor quality.,negative,Product Quality
+Not worth the money spent.,negative,Value for Money
+The product met my expectations.,positive,Product Quality
+The product quality is outstanding.,positive,Product Quality
+Delivery was prompt and efficient.,positive,Delivery
+The service was neither good nor bad.,neutral,Customer Service
+I'm satisfied with the product quality.,positive,Product Quality
+The product performs very well.,positive,Functionality
+"Service was fine, not great.",neutral,Customer Service
+I'm very happy with the purchase.,positive,Overall Experience
+The product is high quality.,positive,Product Quality
+Service was not satisfactory.,negative,Customer Service
+The overall experience was okay.,neutral,Overall Experience
+Customer service was not responsive.,negative,Customer Service
+The value for money is poor.,negative,Value for Money
+Service was acceptable.,neutral,Customer Service
+The overall experience was positive.,positive,Overall Experience
+The product did not meet my standards.,negative,Product Quality
+I'm impressed with the design.,positive,Design
+The value for money is great.,positive,Value for Money
+The product quality is mediocre.,neutral,Product Quality
+The product is high quality.,positive,Product Quality
+I'm satisfied with the overall experience.,positive,Overall Experience
+The value for money is great.,positive,Value for Money
+Service was quick and responsive.,positive,Customer Service
+The product is of poor quality.,negative,Product Quality
+The value for money is great.,positive,Value for Money
+Customer service was not responsive.,negative,Customer Service
+The product met all my expectations.,positive,Product Quality
+The design is very practical.,positive,Design
+The design is quite good.,positive,Design
+The value for money is not good.,negative,Value for Money
+Customer service was not responsive.,negative,Customer Service
+The design is elegant and modern.,positive,Design
+The product is not durable.,negative,Durability
+The product is excellent.,positive,Product Quality
+The delivery was delayed and I'm disappointed.,negative,Delivery
+Customer service was below average.,negative,Customer Service
+The product is of poor quality.,negative,Product Quality
+I'm very happy with the purchase.,positive,Overall Experience
+The value for money is great.,positive,Value for Money
+The overall experience was not good.,negative,Overall Experience
+The value for money is good.,positive,Value for Money
+The overall experience was fantastic.,positive,Overall Experience
+The product quality is outstanding.,positive,Product Quality
+I'm very happy with the purchase.,positive,Overall Experience
+The design is quite good.,positive,Design
+I'm impressed with the design.,positive,Design
+I'm disappointed with the customer service.,negative,Customer Service
+I'm very happy with the purchase.,positive,Overall Experience
+The overall experience was positive.,positive,Overall Experience
+Customer service was not responsive.,negative,Customer Service
+The product is very reliable.,positive,Durability
+The overall experience was okay.,neutral,Overall Experience
+The product performs very well.,positive,Functionality
+Customer service was not helpful.,negative,Customer Service
+Service was quick and responsive.,positive,Customer Service
+The value for money is excellent.,positive,Value for Money
+I had a great shopping experience.,positive,Overall Experience
+Delivery was a bit slow.,neutral,Delivery
+The value for money is satisfactory.,neutral,Value for Money
+The design is quite good.,positive,Design
+I'm satisfied with the overall experience.,positive,Overall Experience
+The design is very functional.,positive,Design
+I'm impressed with the design.,positive,Design
+The overall experience was satisfactory.,neutral,Overall Experience
+The overall experience was not good.,negative,Overall Experience
+Delivery was on time.,positive,Delivery
+The overall experience was satisfactory.,neutral,Overall Experience
+I'm satisfied with the product quality.,positive,Product Quality
+The value for money is reasonable.,positive,Value for Money
+Service was not up to par.,negative,Customer Service
+The product is high quality.,positive,Product Quality
+The value for money is excellent.,positive,Value for Money
+The product is of poor quality.,negative,Product Quality
+Service was quick and responsive.,positive,Customer Service
+The value for money is satisfactory.,neutral,Value for Money
+I'm happy with the design changes.,positive,Design
+Delivery was quicker than I expected.,positive,Delivery
+The value for money is reasonable.,positive,Value for Money
+I'm impressed with the design.,positive,Design
+The product is substandard.,negative,Product Quality
+The product is of poor quality.,negative,Product Quality
+The product met all my expectations.,positive,Product Quality
+The design is quite good.,positive,Design
+The value for money is reasonable.,positive,Value for Money
+The product is excellent.,positive,Product Quality
+Service was not up to par.,negative,Customer Service
+The overall experience was great.,positive,Overall Experience
+The product performs very well.,positive,Functionality
+Service was quick and responsive.,positive,Customer Service
+The overall experience was okay.,neutral,Overall Experience
+Customer service was not responsive.,negative,Customer Service
+Delivery was prompt and satisfactory.,positive,Delivery
+The design is quite good.,positive,Design
+I had a great shopping experience.,positive,Overall Experience
+I'm impressed with the design.,positive,Design
+The overall experience was okay.,neutral,Overall Experience
+The design is very practical.,positive,Design
+The value for money is poor.,negative,Value for Money
+The product is very durable.,positive,Durability
+The overall experience was fine.,neutral,Overall Experience
+Delivery was quicker than I expected.,positive,Delivery
+Service was not satisfactory.,negative,Customer Service
+The product quality is outstanding.,positive,Product Quality
+The product did not last long.,negative,Durability
+The overall experience was okay.,neutral,Overall Experience
+The overall experience was fine.,neutral,Overall Experience
+The design is quite good.,positive,Design
+The value for money is great.,positive,Value for Money
+Customer service needs improvement.,negative,Customer Service
+The overall experience was okay.,neutral,Overall Experience
+Delivery was on time.,positive,Delivery
+"Service was okay, nothing special.",neutral,Customer Service
+The design is quite good.,positive,Design
+This is a decent product for its price.,neutral,Value for Money
+Customer service was not helpful.,negative,Customer Service
+Customer service was not helpful.,negative,Customer Service
+Service was acceptable.,neutral,Customer Service
+The product is of poor quality.,negative,Product Quality
+The design is quite good.,positive,Design
+Delivery was fast and efficient.,positive,Delivery
+I'm impressed with the design.,positive,Design
+The product did not meet my standards.,negative,Product Quality
+The design is very attractive.,positive,Design
+The product works perfectly.,positive,Functionality
+The product is excellent.,positive,Product Quality
+Delivery was fast and efficient.,positive,Delivery
+Delivery was fast and efficient.,positive,Delivery
+Customer service was rude.,negative,Customer Service
+Delivery was prompt and efficient.,positive,Delivery
+I'm impressed with the design.,positive,Design
+Customer service was not responsive.,negative,Customer Service
+The design is very practical.,positive,Design
+Delivery was faster than expected.,positive,Delivery
+The product is very reliable.,positive,Durability
+The value for money is satisfactory.,neutral,Value for Money
+Customer service was not helpful.,negative,Customer Service
+The product is very reliable.,positive,Durability
+Delivery was very quick.,positive,Delivery
+The product quality is outstanding.,positive,Product Quality
+The product met all my expectations.,positive,Product Quality
+Service was acceptable.,neutral,Customer Service
+Service was not satisfactory.,negative,Customer Service
+Service was acceptable.,neutral,Customer Service
+Customer service was rude.,negative,Customer Service
+This purchase was not worth it.,negative,Value for Money
+The product is very reliable.,positive,Durability
+Service was not satisfactory.,negative,Customer Service
+Customer service was slow.,negative,Customer Service
+I'm satisfied with the product quality.,positive,Product Quality
+The value for money is satisfactory.,neutral,Value for Money
+Service was not up to par.,negative,Customer Service
+Service was quick and responsive.,positive,Customer Service
+A decent overall experience.,neutral,Overall Experience
+Customer service was slow.,negative,Customer Service
+The overall experience was not good.,negative,Overall Experience
+I'm satisfied with the product quality.,positive,Product Quality
+The overall experience was below expectations.,negative,Overall Experience
+Customer service was slow.,negative,Customer Service
+The overall experience was excellent.,positive,Overall Experience
+I'm impressed with the design and functionality.,positive,Design
+The overall experience was positive.,positive,Overall Experience
+Delivery was a bit slow.,neutral,Delivery
+I'm pleased with the overall experience.,positive,Overall Experience
+The value for money is satisfactory.,neutral,Value for Money
+Service was acceptable.,neutral,Customer Service
+Customer service was slow.,negative,Customer Service
+The overall experience was positive.,positive,Overall Experience
+The design is very attractive.,positive,Design
+The value for money is great.,positive,Value for Money
+Customer service was unresponsive.,negative,Customer Service
+I'm disappointed with the customer service.,negative,Customer Service
+I'm happy with the overall experience.,positive,Overall Experience
+The overall experience was okay.,neutral,Overall Experience
+The value for money is poor.,negative,Value for Money
+Service was acceptable.,neutral,Customer Service
+The product is excellent.,positive,Product Quality
+Service was acceptable.,neutral,Customer Service
+The product met my expectations.,positive,Product Quality
+The value for money is good.,positive,Value for Money
+The product is high quality.,positive,Product Quality
+The value for money is not good.,negative,Value for Money
+The product is excellent.,positive,Product Quality
+The value for money is great.,positive,Value for Money
+Customer service was rude.,negative,Customer Service
+The overall experience was okay.,neutral,Overall Experience
+The overall experience was not good.,negative,Overall Experience
+The value for money is poor.,negative,Value for Money
+Service was not up to par.,negative,Customer Service
+The product quality is substandard.,negative,Product Quality
+An overall satisfying experience.,positive,Overall Experience
+I'm pleased with the overall experience.,positive,Overall Experience
+Service was acceptable.,neutral,Customer Service
+I'm satisfied with the product quality.,positive,Product Quality
+The value for money is great.,positive,Value for Money
+The product works perfectly.,positive,Functionality
+Customer service was not helpful.,negative,Customer Service
+Customer service was not responsive.,negative,Customer Service
+Service was acceptable.,neutral,Customer Service
+"Service was fine, not great.",neutral,Customer Service
+The value for money is not good.,negative,Value for Money
+The overall experience was not good.,negative,Overall Experience
+Service was not satisfactory.,negative,Customer Service
+The product is overpriced for what it offers.,negative,Value for Money
+Product quality exceeded my expectations.,positive,Product Quality
+The product performs very well.,positive,Functionality
+Customer service was not responsive.,negative,Customer Service
+The overall experience was positive.,positive,Overall Experience
+Customer service was rude.,negative,Customer Service
+The design is very functional.,positive,Design
+The product is high quality.,positive,Product Quality
+I'm very happy with the purchase.,positive,Overall Experience
+I'm not impressed with the service.,negative,Customer Service
+The product is of poor quality.,negative,Product Quality
+The overall experience was okay.,neutral,Overall Experience
+The product is of poor quality.,negative,Product Quality
+The product did not last long.,negative,Durability
+The overall experience was excellent.,positive,Overall Experience
+The value for money is reasonable.,positive,Value for Money
+Delivery was on time.,positive,Delivery
+The overall experience was fantastic.,positive,Overall Experience
+The overall experience was not good.,negative,Overall Experience
+The value for money is reasonable.,positive,Value for Money
+Service was quick and responsive.,positive,Customer Service
+Service was not satisfactory.,negative,Customer Service
+The product quality is mediocre.,neutral,Product Quality
+The overall experience was excellent.,positive,Overall Experience
+The overall experience was fine.,neutral,Overall Experience
+The product quality is mediocre.,neutral,Product Quality
+I'm happy with the product quality.,positive,Product Quality
+"Fantastic experience, will definitely buy again!",positive,Overall Experience
+"Service was okay, can be improved.",neutral,Customer Service
+Service was not satisfactory.,negative,Customer Service
+Service was not up to par.,negative,Customer Service
+"Service was okay, nothing special.",neutral,Customer Service
+"Service was fine, not great.",neutral,Customer Service
+The design is very attractive.,positive,Design
+The product quality is substandard.,negative,Product Quality
+The design is very attractive.,positive,Design
+The product quality is mediocre.,neutral,Product Quality
+The product is not durable.,negative,Durability
+The product is very reliable.,positive,Durability
+I'm not happy with the value for the price.,negative,Value for Money
+The product met all my expectations.,positive,Product Quality
+Customer service needs improvement.,negative,Customer Service
+Customer service was rude.,negative,Customer Service
+The product works perfectly.,positive,Functionality
+Delivery was prompt and efficient.,positive,Delivery
+The design is quite good.,positive,Design
+Delivery was on time.,positive,Delivery
+The value for money is not good.,negative,Value for Money
+Delivery was a bit slow.,neutral,Delivery
+Service could be improved.,neutral,Customer Service
+I'm happy with the overall experience.,positive,Overall Experience
+The product quality is substandard.,negative,Product Quality
+The overall experience was satisfactory.,neutral,Overall Experience
+"Service was okay, nothing special.",neutral,Customer Service
+The design is very attractive.,positive,Design
+Service was quick and responsive.,positive,Customer Service
+Customer service was slow.,negative,Customer Service
+The product works perfectly.,positive,Functionality
+The product quality is outstanding.,positive,Product Quality
+A decent overall experience.,neutral,Overall Experience
+The overall experience was excellent.,positive,Overall Experience
+The product met all my expectations.,positive,Product Quality
+The product quality is mediocre.,neutral,Product Quality
+The product works perfectly.,positive,Functionality
+I'm satisfied with the product quality.,positive,Product Quality
+Service was satisfactory.,neutral,Customer Service
+The overall experience was positive.,positive,Overall Experience
+The product works perfectly.,positive,Functionality
+"Service was okay, nothing special.",neutral,Customer Service
+The product is not durable.,negative,Durability
+The design is elegant and modern.,positive,Design
+Not happy with the value for money.,negative,Value for Money
+The product did not meet my standards.,negative,Product Quality
+The design is quite good.,positive,Design
+Delivery was a bit slow but acceptable.,neutral,Delivery
+The overall experience was fine.,neutral,Overall Experience
+The overall experience was fantastic.,positive,Overall Experience
+Service was quick and responsive.,positive,Customer Service
+The product is high quality.,positive,Product Quality
+The overall experience was okay.,neutral,Overall Experience
+I'm impressed with the design.,positive,Design
+The overall experience was positive.,positive,Overall Experience
+"Service was fine, not great.",neutral,Customer Service
+The overall experience was fine.,neutral,Overall Experience
+The design is very practical.,positive,Design
+The value for money is reasonable.,positive,Value for Money
+The overall experience was okay.,neutral,Overall Experience
+Delivery was prompt and efficient.,positive,Delivery
+Customer service needs improvement.,negative,Customer Service
+The product is of superior quality.,positive,Product Quality
+The product quality is substandard.,negative,Product Quality
+Customer service was rude and unhelpful.,negative,Customer Service
+The overall experience was satisfactory.,neutral,Overall Experience
+Customer service was slow.,negative,Customer Service
+The overall experience was satisfactory.,neutral,Overall Experience
+The overall experience was excellent.,positive,Overall Experience
+The product quality is poor.,negative,Product Quality
+Delivery was quicker than I expected.,positive,Delivery
+Delivery was a bit slow.,neutral,Delivery
+I'm satisfied with the product quality.,positive,Product Quality
+The overall experience was fantastic.,positive,Overall Experience
+The overall experience was positive.,positive,Overall Experience
+"The delivery was on time, nothing special.",neutral,Delivery
+Delivery was fast and efficient.,positive,Delivery
+The value for money is reasonable.,positive,Value for Money
+The overall experience was fantastic.,positive,Overall Experience
+Delivery was a bit slow.,neutral,Delivery
+Customer service was not responsive.,negative,Customer Service
+Customer service was rude.,negative,Customer Service
+The overall experience was fine.,neutral,Overall Experience
+The value for money is reasonable.,positive,Value for Money
+The product is excellent.,positive,Product Quality
+The overall experience was positive.,positive,Overall Experience
+The value for money is poor.,negative,Value for Money
+I'm satisfied with the new design.,positive,Design
+The product works perfectly.,positive,Functionality
+The product works as expected.,positive,Functionality
+The overall experience was excellent.,positive,Overall Experience
+"Service was okay, nothing special.",neutral,Customer Service
+The product is excellent.,positive,Product Quality
+"The delivery was on time, nothing special.",neutral,Delivery
+The product did not meet my standards.,negative,Product Quality
+The overall experience was satisfactory.,neutral,Overall Experience
+Delivery was on time.,positive,Delivery
+The overall experience was not good.,negative,Overall Experience
+The product is of poor quality.,negative,Product Quality
+Customer service was not responsive.,negative,Customer Service
+I'm very happy with the purchase.,positive,Overall Experience
+Product arrived on time and in good condition.,positive,Delivery
+Customer service was rude.,negative,Customer Service
+The design is quite good.,positive,Design
+The overall experience was positive.,positive,Overall Experience
+Customer service was not helpful.,negative,Customer Service
+I found the product to be very useful.,positive,Functionality
+Service was acceptable.,neutral,Customer Service
+The overall experience was just okay.,neutral,Overall Experience
+The product did not meet my standards.,negative,Product Quality
+Delivery was a bit slow.,neutral,Delivery
+The product is durable and of high quality.,positive,Product Quality
+The design of the product is very sleek.,positive,Design
+Customer service was not helpful.,negative,Customer Service
+The quality of the product is disappointing.,negative,Product Quality
+Service was quick and responsive.,positive,Customer Service
+The product is highly functional.,positive,Functionality
+The design is functional and attractive.,positive,Design
+Delivery was quicker than I expected.,positive,Delivery
+I'm happy with the overall experience.,positive,Overall Experience
+Service was acceptable.,neutral,Customer Service
+Customer service was not helpful.,negative,Customer Service
+Delivery was on time.,positive,Delivery
+The design is modern and sleek.,positive,Design
+Service was not up to par.,negative,Customer Service
+The website design is very user-friendly.,positive,Design
+The design is quite functional.,positive,Design
+Service exceeded my expectations.,positive,Customer Service
+The overall experience was excellent.,positive,Overall Experience
+Customer service was slow.,negative,Customer Service
+Customer service was not helpful.,negative,Customer Service
+I'm happy with the overall experience.,positive,Overall Experience
+The design is very attractive.,positive,Design
+Customer service was slow.,negative,Customer Service
+Delivery was very quick.,positive,Delivery
+Delivery was prompt and efficient.,positive,Delivery
+The product is of poor quality.,negative,Product Quality
+Customer service needs to be more responsive.,negative,Customer Service
+Customer service was not responsive.,negative,Customer Service
+The overall experience was excellent.,positive,Overall Experience
+Delivery was fast and efficient.,positive,Delivery
+"Service was okay, nothing special.",neutral,Customer Service
+The product quality is mediocre.,neutral,Product Quality
+The overall experience was not good.,negative,Overall Experience
+The value for money is poor.,negative,Value for Money
+Not worth the money.,negative,Value for Money
+The product is high quality.,positive,Product Quality
+The design is very attractive.,positive,Design
+Service was quick and responsive.,positive,Customer Service
+The product is high quality.,positive,Product Quality
+The value for money is poor.,negative,Value for Money
+Customer service needs improvement.,negative,Customer Service
+Customer service was not helpful.,negative,Customer Service
+The product is overpriced.,negative,Value for Money
+The overall experience was not good.,negative,Overall Experience
+The product is excellent.,positive,Product Quality
+The design is quite functional.,positive,Design
+The value for money is great.,positive,Value for Money
+This product is not good at all.,negative,Product Quality
+The design is very practical.,positive,Design
+Service exceeded my expectations.,positive,Customer Service
+Delivery was a bit slow.,neutral,Delivery
+The overall experience was excellent.,positive,Overall Experience
+Delivery was on time.,positive,Delivery
+The product works as advertised.,positive,Functionality
+Delivery was prompt and efficient.,positive,Delivery
+Delivery was prompt and satisfactory.,positive,Delivery
+The overall experience was satisfactory.,neutral,Overall Experience
+Service was not satisfactory.,negative,Customer Service
+The product did not meet my expectations.,negative,Product Quality
+The value for money is great.,positive,Value for Money
+I recommend this service to everyone.,positive,Recommendation
+Service was quick and responsive.,positive,Customer Service
+Delivery was a bit slow.,neutral,Delivery
+The design is very attractive.,positive,Design
+The design is quite good.,positive,Design
+The product is very reliable.,positive,Durability
+The value for money is poor.,negative,Value for Money
+The product is high quality.,positive,Product Quality
+Delivery was on time.,positive,Delivery
+Customer service was not responsive.,negative,Customer Service
+I'm satisfied with the product quality.,positive,Product Quality
+I'm impressed with the design and functionality.,positive,Design
+The product did not meet my standards.,negative,Product Quality
+The product is of excellent quality.,positive,Product Quality
+The product works as advertised.,positive,Functionality
+Customer service was not helpful.,negative,Customer Service
+The value for money is acceptable.,neutral,Value for Money
+The product works perfectly.,positive,Functionality
+I'm happy with the overall experience.,positive,Overall Experience
+The product is overpriced.,negative,Value for Money
+The value for money is reasonable.,positive,Value for Money
+I'm satisfied with the product quality.,positive,Product Quality
+I'm happy with the overall experience.,positive,Overall Experience
+The overall experience was okay.,neutral,Overall Experience
+Customer service needs improvement.,negative,Customer Service
+The design is modern and sleek.,positive,Design
+Customer service needs to be better.,negative,Customer Service
+The design is quite good.,positive,Design
+The product quality is substandard.,negative,Product Quality
+The design is very practical.,positive,Design
+Delivery was a bit slow.,neutral,Delivery
+The overall experience was satisfactory.,neutral,Overall Experience
+The overall experience was not good.,negative,Overall Experience
+Delivery was on time.,positive,Delivery
+Customer service was not responsive.,negative,Customer Service
+The product quality is substandard.,negative,Product Quality
+Product quality exceeded my expectations.,positive,Product Quality
+The overall experience was fine.,neutral,Overall Experience
+The product quality is substandard.,negative,Product Quality
+The product quality is substandard.,negative,Product Quality
+Customer service was rude.,negative,Customer Service
+The value for money is not good.,negative,Value for Money
+The product quality is outstanding.,positive,Product Quality
+Customer service was not helpful.,negative,Customer Service
+The overall experience was fine.,neutral,Overall Experience
+The overall experience was okay.,neutral,Overall Experience
+The product did not meet my expectations.,negative,Product Quality
+The value for money is great.,positive,Value for Money
+The product met all my expectations.,positive,Product Quality
+The overall experience was excellent.,positive,Overall Experience
+The product quality is mediocre.,neutral,Product Quality
+The product is overpriced for what it offers.,negative,Value for Money
+The product works perfectly.,positive,Functionality
+The overall experience was satisfactory.,neutral,Overall Experience
+The value for money is poor.,negative,Value for Money
+Customer service needs improvement.,negative,Customer Service
+Service was acceptable.,neutral,Customer Service
+Customer service was not responsive.,negative,Customer Service
+The overall experience was excellent.,positive,Overall Experience
+Service was acceptable.,neutral,Customer Service
+The design is modern and sleek.,positive,Design
+The design is quite good.,positive,Design
+Customer service was not responsive.,negative,Customer Service
+The product did not meet my expectations.,negative,Product Quality
+Customer service was not helpful.,negative,Customer Service
+The overall experience was amazing.,positive,Overall Experience
+The product quality is substandard.,negative,Product Quality
+The product is high quality.,positive,Product Quality
+The overall experience was fantastic.,positive,Overall Experience
+The product did not meet my standards.,negative,Product Quality
+The product works as advertised.,positive,Functionality
+Service was just fine.,neutral,Customer Service
+The product works perfectly.,positive,Functionality
+"Service was fine, not great.",neutral,Customer Service
+I'm satisfied with the product quality.,positive,Product Quality
+Customer service was not responsive.,negative,Customer Service
+The value for money is just okay.,neutral,Value for Money
+Customer service was not helpful.,negative,Customer Service
+The value for money is satisfactory.,neutral,Value for Money
+Customer service was rude.,negative,Customer Service
+Customer service needs improvement.,negative,Customer Service
+The overall experience was positive.,positive,Overall Experience
+Service was acceptable.,neutral,Customer Service
+Service was acceptable.,neutral,Customer Service
+Amazing quality and fast shipping.,positive,Delivery
+The overall experience was satisfactory.,neutral,Overall Experience
+Delivery was on time.,positive,Delivery
+The website design is very user-friendly.,positive,Design
+The overall experience was okay.,neutral,Overall Experience
+"Service was okay, nothing special.",neutral,Customer Service
+The product quality is substandard.,negative,Product Quality
+I'm happy with the overall experience.,positive,Overall Experience
+The design is modern and sleek.,positive,Design
+The value for money is satisfactory.,neutral,Value for Money
+Delivery was quicker than I expected.,positive,Delivery
+Service was not satisfactory.,negative,Customer Service
+The design is modern and sleek.,positive,Design
+The product exceeded my expectations.,positive,Product Quality
+Delivery was fast and efficient.,positive,Delivery
+The product performs very well.,positive,Functionality
+The product is high quality.,positive,Product Quality
+The value for money is satisfactory.,neutral,Value for Money
+The value for money is satisfactory.,neutral,Value for Money
+The product met all my expectations.,positive,Product Quality
+The value for money is poor.,negative,Value for Money
+The product is not durable.,negative,Durability
+The product is high quality.,positive,Product Quality
+The value for money is satisfactory.,neutral,Value for Money
+Very satisfied with the purchase overall.,positive,Overall Experience
+The design is modern and sleek.,positive,Design
+Customer service was not helpful.,negative,Customer Service
+Customer service needs improvement.,negative,Customer Service
+The overall experience was positive.,positive,Overall Experience
+The product works as advertised.,positive,Functionality
+The product is not durable.,negative,Durability
+The design is modern and sleek.,positive,Design
+The overall experience was okay.,neutral,Overall Experience
+I'm happy with the purchase.,positive,Overall Experience
+Customer service was not helpful.,negative,Customer Service
+The overall experience was disappointing.,negative,Overall Experience
+Delivery was quicker than I expected.,positive,Delivery
+The design is very practical.,positive,Design
+Service was not up to par.,negative,Customer Service
+The product quality is substandard.,negative,Product Quality
+The overall experience was positive.,positive,Overall Experience
+The product is of poor quality.,negative,Product Quality
+The product met all my expectations.,positive,Product Quality
+The value for money is great.,positive,Value for Money
+The price is too high for the quality offered.,negative,Value for Money
+The product quality is mediocre.,neutral,Product Quality
+I'm impressed with the design.,positive,Design
+The overall experience was fantastic.,positive,Overall Experience
+Delivery was fast and efficient.,positive,Delivery
+An overall good experience.,positive,Overall Experience
+The design of the product is very sleek.,positive,Design
+The design is modern and sleek.,positive,Design
+The design is very attractive.,positive,Design
+The overall experience was excellent.,positive,Overall Experience
+Service was acceptable.,neutral,Customer Service
+The product didn't last long.,negative,Durability
+The product is high quality.,positive,Product Quality
+The product quality is outstanding.,positive,Product Quality
+The product quality is substandard.,negative,Product Quality
+The value for money is just okay.,neutral,Value for Money
+The overall experience was okay.,neutral,Overall Experience
+Service was quick and responsive.,positive,Customer Service
+"Service was fine, not great.",neutral,Customer Service
+Delivery was very quick.,positive,Delivery
+I'm satisfied with the product quality.,positive,Product Quality
+Service was not satisfactory.,negative,Customer Service
+The product quality is outstanding.,positive,Product Quality
+The value for money is not good.,negative,Value for Money
+I'm very satisfied with my purchase.,positive,Overall Experience
+The product is overpriced.,negative,Value for Money
+The product quality is mediocre.,neutral,Product Quality
+The product works as advertised.,positive,Functionality
+I'm happy with the overall experience.,positive,Overall Experience
+"Service was fine, not great.",neutral,Customer Service
+The product quality is outstanding.,positive,Product Quality
+Customer service was slow.,negative,Customer Service
+The overall experience was fantastic.,positive,Overall Experience
+I'm impressed with the design.,positive,Design
+The product quality is outstanding.,positive,Product Quality
+Service was acceptable.,neutral,Customer Service
+The overall experience was okay.,neutral,Overall Experience
+The overall experience was fine.,neutral,Overall Experience
+The overall experience was positive.,positive,Overall Experience
+Customer service was not helpful.,negative,Customer Service
+"Service was fine, not great.",neutral,Customer Service
+Delivery was a bit slow.,neutral,Delivery
+Customer service was slow.,negative,Customer Service
+Service was not satisfactory.,negative,Customer Service
+The design is very attractive.,positive,Design
+Delivery was prompt and efficient.,positive,Delivery
+Customer service was not helpful.,negative,Customer Service
+Customer service was not responsive.,negative,Customer Service
+"Service was fine, but could be faster.",neutral,Customer Service
+I'm happy with the overall experience.,positive,Overall Experience
+The product is excellent.,positive,Product Quality
+Service was poor and unhelpful.,negative,Customer Service
+The overall experience was satisfactory.,neutral,Overall Experience
+The value for money is not good.,negative,Value for Money
+Customer service was rude.,negative,Customer Service
+I'm very happy with the purchase.,positive,Overall Experience
+Service was acceptable.,neutral,Customer Service
+The product is very reliable.,positive,Durability
+The value for money is reasonable.,positive,Value for Money
+I'm happy with the overall experience.,positive,Overall Experience
+Delivery was on time.,positive,Delivery
+The overall experience was satisfactory.,neutral,Overall Experience
+The overall experience was satisfactory.,neutral,Overall Experience
+The delivery was delayed and I'm disappointed.,negative,Delivery
+The product performs very well.,positive,Functionality
+The product quality is outstanding.,positive,Product Quality
+Customer service needs improvement.,negative,Customer Service
+The design is very practical.,positive,Design
+Delivery was a bit slow.,neutral,Delivery
+The product is excellent.,positive,Product Quality
+Delivery was on time.,positive,Delivery
+The product works as expected.,positive,Functionality
+The product works as advertised.,positive,Functionality
+"Service was okay, can be improved.",neutral,Customer Service
+I'm very happy with the purchase.,positive,Overall Experience
+The overall experience was fine.,neutral,Overall Experience
+The product is not durable.,negative,Durability
+The overall experience was positive.,positive,Overall Experience
+The design is very practical.,positive,Design
+Delivery was a bit slow but acceptable.,neutral,Delivery
+Customer service was slow.,negative,Customer Service
+Customer service was slow.,negative,Customer Service
+The product works perfectly.,positive,Functionality
+The overall experience was fantastic.,positive,Overall Experience
+Customer service was not responsive.,negative,Customer Service
+The product works perfectly.,positive,Functionality
+The product is overpriced.,negative,Value for Money
+The design is innovative.,positive,Design
+The product is very reliable.,positive,Durability
+I'm impressed with the design.,positive,Design
+Delivery was fast and efficient.,positive,Delivery
+The value for money is very good.,positive,Value for Money
+The value for money is satisfactory.,neutral,Value for Money
+The product is excellent.,positive,Product Quality
+The design is modern and sleek.,positive,Design
+The design is quite good.,positive,Design
+"Service was okay, nothing special.",neutral,Customer Service
+The value for money is poor.,negative,Value for Money
+Customer service was slow.,negative,Customer Service
+The product performs very well.,positive,Functionality
+The product quality is subpar.,negative,Product Quality
+The design is very practical.,positive,Design
+I'm very happy with the purchase.,positive,Overall Experience
+"Service was okay, nothing special.",neutral,Customer Service
+Customer service needs improvement.,negative,Customer Service
+I'm satisfied with the product quality.,positive,Product Quality
+"Service was okay, nothing special.",neutral,Customer Service
+"Service was fine, not great.",neutral,Customer Service
+I'm impressed with the design.,positive,Design
+"Service was okay, nothing special.",neutral,Customer Service
+The design is very practical.,positive,Design
+The design is modern and sleek.,positive,Design
+The product did not meet my standards.,negative,Product Quality
+The value for money is great.,positive,Value for Money
+I'm impressed with the design.,positive,Design
+The product quality is outstanding.,positive,Product Quality
+The design is very practical.,positive,Design
+The design is quite functional.,positive,Design
+The product is high quality.,positive,Product Quality
+Customer service was mediocre.,neutral,Customer Service
+The design is very attractive.,positive,Design
+The overall experience was fantastic.,positive,Overall Experience
+The product works perfectly.,positive,Functionality
+Customer service was not helpful.,negative,Customer Service
+Service was acceptable.,neutral,Customer Service
+Customer service was not helpful.,negative,Customer Service
+The quality of the product could be better.,neutral,Product Quality
+"Service was fine, not great.",neutral,Customer Service
+Customer service was not responsive.,negative,Customer Service
+The product quality is mediocre.,neutral,Product Quality
+I'm very happy with the purchase.,positive,Overall Experience
+The design is modern and sleek.,positive,Design
+Service exceeded my expectations.,positive,Customer Service
+Customer service was slow.,negative,Customer Service
+The design is quite functional.,positive,Design
+The overall experience was not good.,negative,Overall Experience
+Customer service was rude.,negative,Customer Service
+I'm happy with the overall experience.,positive,Overall Experience
+The overall experience was positive.,positive,Overall Experience
+The design is quite good.,positive,Design
+"Service was fine, not great.",neutral,Customer Service
+I'm impressed with the design.,positive,Design
+Customer service was slow to respond.,negative,Customer Service
+"Service was fine, not great.",neutral,Customer Service
+"Service was fine, nothing special.",neutral,Customer Service
+The overall experience was okay.,neutral,Overall Experience
+The design is quite functional.,positive,Design
+The product is overpriced.,negative,Value for Money
+Very satisfied with the purchase.,positive,Product Quality
+The overall experience was not good.,negative,Overall Experience
+The product is high quality.,positive,Product Quality
+The product is of poor quality.,negative,Product Quality
+Not worth the money.,negative,Value for Money
+The overall experience was not good.,negative,Overall Experience
+The overall experience was satisfactory.,neutral,Overall Experience
+Customer service was slow.,negative,Customer Service
+The value for money is satisfactory.,neutral,Value for Money
+The design is very practical.,positive,Design
+Customer service was not responsive.,negative,Customer Service
+The product works as advertised.,positive,Functionality
+The overall experience was okay.,neutral,Overall Experience
+The product works perfectly.,positive,Functionality
+The product quality is substandard.,negative,Product Quality
+Customer service was slow.,negative,Customer Service
+The product is high quality.,positive,Product Quality
+I'm happy with the product quality.,positive,Product Quality
+Delivery was fast and efficient.,positive,Delivery
+The product is excellent.,positive,Product Quality
+I'm very happy with the purchase.,positive,Overall Experience
+The overall experience was positive.,positive,Overall Experience
+Delivery was prompt and efficient.,positive,Delivery
+The value for money is poor.,negative,Value for Money
+Customer service was slow.,negative,Customer Service
+The overall experience was not good.,negative,Overall Experience
+The product met all my expectations.,positive,Product Quality
+Customer service needs improvement.,negative,Customer Service
+The design is quite good.,positive,Design
+I'm happy with the overall experience.,positive,Overall Experience
+The product works as advertised.,positive,Functionality
+The design is quite good.,positive,Design
+The product is of poor quality.,negative,Product Quality
+The product is of poor quality.,negative,Product Quality
+Delivery was a bit slow.,neutral,Delivery
+The overall experience was positive.,positive,Overall Experience
+I'm not impressed with the new design.,negative,Design
+The product is not durable.,negative,Durability
+The design is quite functional.,positive,Design
+I'm impressed with the design.,positive,Design
+The overall experience was positive.,positive,Overall Experience
+The product has a sleek design.,positive,Design
+Service was quick and responsive.,positive,Customer Service
+The overall experience was fantastic.,positive,Overall Experience
+The product quality is outstanding.,positive,Product Quality
+The product is of poor quality.,negative,Product Quality
+The overall experience was excellent.,positive,Overall Experience
+Delivery was a bit slow.,neutral,Delivery
+Not impressed with the quality for the price.,negative,Value for Money
+Service was acceptable.,neutral,Customer Service
+The product did not meet my standards.,negative,Product Quality
+The product works perfectly.,positive,Functionality
+The product is not reliable.,negative,Durability
+The design is elegant and modern.,positive,Design
+Customer service was not responsive.,negative,Customer Service
+The value for money is satisfactory.,neutral,Value for Money
+"Service was fine, not great.",neutral,Customer Service
+Service was quick and responsive.,positive,Customer Service
+Delivery was on time.,positive,Delivery
+Customer service was slow.,negative,Customer Service
+The product works perfectly.,positive,Functionality
+The overall experience was positive.,positive,Overall Experience
+Customer service needs improvement.,negative,Customer Service
+Delivery was quicker than I expected.,positive,Delivery
+Customer service needs improvement.,negative,Customer Service
+The product quality is substandard.,negative,Product Quality
+I'm satisfied with the product quality.,positive,Product Quality
+The value for money is reasonable.,positive,Value for Money
+The value for money is poor.,negative,Value for Money
+Delivery was faster than expected.,positive,Delivery
+The product is of poor quality.,negative,Product Quality
+The product quality is substandard.,negative,Product Quality
+The design is quite functional.,positive,Design
+I'm happy with the overall experience.,positive,Overall Experience
+The price is too high for the quality offered.,negative,Value for Money
+I'm satisfied with the product quality.,positive,Product Quality
+The overall experience was average.,neutral,Overall Experience
+The product is of poor quality.,negative,Product Quality
+The product works perfectly.,positive,Functionality
+The design is very practical.,positive,Design
+The overall experience was excellent.,positive,Overall Experience
+The product is durable and reliable.,positive,Durability
+The product works as advertised.,positive,Functionality
+The product quality is subpar.,negative,Product Quality
+The product is excellent.,positive,Product Quality
+The overall experience was fine.,neutral,Overall Experience
+The product is of poor quality.,negative,Product Quality
+The overall experience was excellent.,positive,Overall Experience
+The overall experience was okay.,neutral,Overall Experience
+The product is very reliable.,positive,Durability
+I'm very happy with the purchase.,positive,Overall Experience
+The overall experience was okay.,neutral,Overall Experience
+"Service was decent, nothing extraordinary.",neutral,Customer Service
+Value for money is exceptional.,positive,Value for Money
+I'm impressed with the design.,positive,Design
+The overall experience was not good.,negative,Overall Experience
+I'm very happy with the purchase.,positive,Overall Experience
+The product performs very well.,positive,Functionality
+The product quality is subpar.,negative,Product Quality
+Service was acceptable.,neutral,Customer Service
+I'm satisfied with the product quality.,positive,Product Quality
+Delivery was on time.,positive,Delivery
+I'm content with the overall experience.,positive,Overall Experience
+The product quality is mediocre.,neutral,Product Quality
+Customer service was not responsive.,negative,Customer Service
+Delivery was a bit slow.,neutral,Delivery
+Customer service was rude.,negative,Customer Service
+Customer service was not helpful.,negative,Customer Service
+Delivery was a bit slow.,neutral,Delivery
+The product is of poor quality.,negative,Product Quality
+I'm very happy with the purchase.,positive,Overall Experience
+The product is overpriced.,negative,Value for Money
+I'm impressed with the design and functionality.,positive,Design
+The product quality is substandard.,negative,Product Quality
+The value for money is great.,positive,Value for Money
+The product is excellent.,positive,Product Quality
+Customer service was not responsive.,negative,Customer Service
+The design is modern and sleek.,positive,Design
+"Fantastic experience, will definitely buy again!",positive,Overall Experience
+Service was not up to par.,negative,Customer Service
+"Service was fine, not great.",neutral,Customer Service
+I'm very happy with the purchase.,positive,Overall Experience
+The product quality is mediocre.,neutral,Product Quality
+The design is quite good.,positive,Design
+The product works as advertised.,positive,Functionality
+The value for money is reasonable.,positive,Value for Money
+The overall experience was fantastic.,positive,Overall Experience
+Service was quick and responsive.,positive,Customer Service
+An overall excellent experience.,positive,Overall Experience
+The overall experience was excellent.,positive,Overall Experience
+Not impressed with the quality for the price.,negative,Value for Money
+The overall experience was excellent.,positive,Overall Experience
+The value for money is poor.,negative,Value for Money
+Value for money is exceptional.,positive,Value for Money
+Service was poor and unhelpful.,negative,Customer Service
+Customer service needs improvement.,negative,Customer Service
+The product performs very well.,positive,Functionality
+The product did not meet my standards.,negative,Product Quality
+The overall experience was positive.,positive,Overall Experience
+Delivery was on time.,positive,Delivery
+The product is not durable.,negative,Durability
+The overall experience was satisfactory.,neutral,Overall Experience
+The product is not durable.,negative,Durability
+The product is high quality.,positive,Product Quality
+The overall experience was okay.,neutral,Overall Experience
+Customer service was not helpful.,negative,Customer Service
+Service was not satisfactory.,negative,Customer Service
+The product met all my expectations.,positive,Product Quality
+The product is overpriced.,negative,Value for Money
+The value for money is reasonable.,positive,Value for Money
+The product quality is outstanding.,positive,Product Quality
+The product works as advertised.,positive,Functionality
+The design is average.,neutral,Design
+The product quality is outstanding.,positive,Product Quality
+The product is very reliable.,positive,Durability
+The overall experience was excellent.,positive,Overall Experience
+Not impressed with the quality for the price.,negative,Value for Money
+Customer service was not helpful.,negative,Customer Service
+Customer service was slow.,negative,Customer Service
+The product is high quality.,positive,Product Quality
+An overall mediocre experience.,neutral,Overall Experience
+The value for money is not good.,negative,Value for Money
+The service was neither good nor bad.,neutral,Customer Service
+"Service was okay, nothing special.",neutral,Customer Service
+The design is quite functional.,positive,Design
+The overall experience was satisfactory.,neutral,Overall Experience
+The product is of poor quality.,negative,Product Quality
+The product did not meet my standards.,negative,Product Quality
+The product quality is outstanding.,positive,Product Quality
+The product is of poor quality.,negative,Product Quality
+The product is not durable.,negative,Durability
+Service was quick and responsive.,positive,Customer Service
+The product quality is mediocre.,neutral,Product Quality
+Delivery was fast and efficient.,positive,Delivery
+The overall experience was fantastic.,positive,Overall Experience
+The product is excellent.,positive,Product Quality
+The product quality is substandard.,negative,Product Quality
+"Service was okay, nothing special.",neutral,Customer Service
+Delivery was quicker than I expected.,positive,Delivery
+The product performs very well.,positive,Functionality
+The overall experience was positive.,positive,Overall Experience
+Service was acceptable.,neutral,Customer Service
+The product performs very well.,positive,Functionality
+I'm impressed with the design.,positive,Design
+The product is not durable.,negative,Durability
+The value for money is not good.,negative,Value for Money
+The product is of poor quality.,negative,Product Quality
+The product is overpriced.,negative,Value for Money
+The product is overpriced.,negative,Value for Money
+The design is quite good.,positive,Design
+The value for money is reasonable.,positive,Value for Money
+The overall experience was fine.,neutral,Overall Experience
+The value for money is reasonable.,positive,Value for Money
+The value for money is reasonable.,positive,Value for Money
+I'm happy with the overall experience.,positive,Overall Experience
+Service was not satisfactory.,negative,Customer Service
+Service was not satisfactory.,negative,Customer Service
+Customer service was not helpful.,negative,Customer Service
+The value for money is not good.,negative,Value for Money
+The overall experience was not good.,negative,Overall Experience
+The product works just as expected.,positive,Product Quality
+The overall experience was fine.,neutral,Overall Experience
+The product met all my expectations.,positive,Product Quality
+I'm happy with the design changes.,positive,Design
+The value for money is reasonable.,positive,Value for Money
+The value for money is acceptable.,neutral,Value for Money
+The product met all my expectations.,positive,Product Quality
+Customer service was slow.,negative,Customer Service
+Delivery was on time.,positive,Delivery
+Delivery was prompt and efficient.,positive,Delivery
+I'm satisfied with the product quality.,positive,Product Quality
+Customer service was unresponsive.,negative,Customer Service
+Service was not up to par.,negative,Customer Service
+The value for money is satisfactory.,neutral,Value for Money
+Customer service was unresponsive.,negative,Customer Service
+The product is excellent.,positive,Product Quality
+Delivery was prompt and efficient.,positive,Delivery
+Delivery was prompt and satisfactory.,positive,Delivery
+The design is quite good.,positive,Design
+The product quality is mediocre.,neutral,Product Quality
+The product is of poor quality.,negative,Product Quality
+Customer service was not responsive.,negative,Customer Service
+The product quality is outstanding.,positive,Product Quality
+Service was not up to par.,negative,Customer Service
+Service was acceptable.,neutral,Customer Service
+The value for money is excellent.,positive,Value for Money
+The product quality is outstanding.,positive,Product Quality
+Delivery was fast and efficient.,positive,Delivery
+The product did not meet my standards.,negative,Product Quality
+The product is not durable.,negative,Durability
+The value for money is not good.,negative,Value for Money
+The product quality is outstanding.,positive,Product Quality
+The product quality is mediocre.,neutral,Product Quality
+Product arrived on time and in good condition.,positive,Delivery
+The overall experience was not good.,negative,Overall Experience
+The value for money is great.,positive,Value for Money
+The design is quite functional.,positive,Design
+The overall experience was positive.,positive,Overall Experience
+I'm satisfied with the product quality.,positive,Product Quality
+I love the new design of your website!,positive,Design
+Delivery was on time.,positive,Delivery
+The value for money is great.,positive,Value for Money
+The value for money is great.,positive,Value for Money
+The overall experience was not good.,negative,Overall Experience
+The product is overpriced.,negative,Value for Money
+The overall experience was fantastic.,positive,Overall Experience
+The design is quite functional.,positive,Design
+The design is very attractive.,positive,Design
+The value for money is reasonable.,positive,Value for Money
+Product arrived on time and in good condition.,positive,Delivery
+The design is modern and sleek.,positive,Design
+Delivery was quicker than I expected.,positive,Delivery
+The product is overpriced.,negative,Value for Money
+The overall experience was average.,neutral,Overall Experience
+Service was not up to par.,negative,Customer Service
+Service was quick and responsive.,positive,Customer Service
+The product works perfectly.,positive,Functionality
+The value for money is good.,positive,Value for Money
+Delivery was very quick.,positive,Delivery
+The overall experience was fantastic.,positive,Overall Experience
+Service was just fine.,neutral,Customer Service
+The product is overpriced.,negative,Value for Money
+The product is overpriced.,negative,Value for Money
+Service was acceptable.,neutral,Customer Service
+Delivery was prompt and efficient.,positive,Delivery
+The overall experience was not good.,negative,Overall Experience
+Customer service was rude.,negative,Customer Service
+Service was acceptable.,neutral,Customer Service
+The product is very reliable.,positive,Durability
+"Fantastic experience, will definitely buy again!",positive,Overall Experience
+Customer service was slow.,negative,Customer Service
+The product is high quality.,positive,Product Quality
+The product works as advertised.,positive,Functionality
+The product works as advertised.,positive,Functionality
+Service was not satisfactory.,negative,Customer Service
+The overall experience was excellent.,positive,Overall Experience
+Amazing quality and fast shipping.,positive,Delivery
+"Service was fine, not great.",neutral,Customer Service
+The overall experience was fantastic.,positive,Overall Experience
+The product quality is mediocre.,neutral,Product Quality
+Service was not satisfactory.,negative,Customer Service
+I'm very happy with the purchase.,positive,Overall Experience
+The product did not meet my standards.,negative,Product Quality
+The design is quite good.,positive,Design
+The design is elegant and modern.,positive,Design
+The value for money is satisfactory.,neutral,Value for Money
+The product works perfectly.,positive,Functionality
+The product is excellent.,positive,Product Quality
+Service was not satisfactory.,negative,Customer Service
+The product is of superior quality.,positive,Product Quality
+The overall experience was positive.,positive,Overall Experience
+The product is highly functional.,positive,Functionality
+The design is very attractive.,positive,Design
+The overall experience was satisfactory.,neutral,Overall Experience
+The product works perfectly.,positive,Functionality
+Delivery was fast and efficient.,positive,Delivery
+The value for money is great.,positive,Value for Money
+The overall experience was excellent.,positive,Overall Experience
+Customer service was rude.,negative,Customer Service
+The product is very reliable.,positive,Durability
+I'm impressed with the design.,positive,Design
+The design is quite functional.,positive,Design
+I'm satisfied with the product quality.,positive,Product Quality
+Customer service was not responsive.,negative,Customer Service
+The product is excellent.,positive,Product Quality
+The product did not meet my standards.,negative,Product Quality
+The value for money is poor.,negative,Value for Money
+Delivery was quicker than I expected.,positive,Delivery
+Service was quick and responsive.,positive,Customer Service
+The product is not durable.,negative,Durability
+I'm impressed with the design.,positive,Design
+The design is very attractive.,positive,Design
+The design is very practical.,positive,Design
+The product is excellent.,positive,Product Quality
+The product is overpriced.,negative,Value for Money
+Product arrived on time and in good condition.,positive,Delivery
+Customer service was not responsive.,negative,Customer Service
+Not impressed with the quality for the price.,negative,Value for Money
+I love the new design of your website!,positive,Design
+The product works as advertised.,positive,Functionality
+The design is modern and sleek.,positive,Design
+The product performs very well.,positive,Functionality
+Delivery was a bit slow but acceptable.,neutral,Delivery
+The overall experience was not good.,negative,Overall Experience
+"Service was okay, nothing special.",neutral,Customer Service
+The design is quite good.,positive,Design
+Service was quick and responsive.,positive,Customer Service
+The overall experience was okay.,neutral,Overall Experience
+The value for money is not good.,negative,Value for Money
+The value for money is not good.,negative,Value for Money
+Service was acceptable.,neutral,Customer Service
+The design is very modern.,positive,Design
+The overall experience was fine.,neutral,Overall Experience
+The overall experience was fantastic.,positive,Overall Experience
+The overall experience was excellent.,positive,Overall Experience
+The design is quite good.,positive,Design
+I'm satisfied with the product quality.,positive,Product Quality
+Delivery was prompt and efficient.,positive,Delivery
+The design is quite functional.,positive,Design
+"Service was fine, not great.",neutral,Customer Service
+The value for money is great.,positive,Value for Money
+The product quality is substandard.,negative,Product Quality
+I'm impressed with the design.,positive,Design
+"Delivery was on time, very happy.",positive,Delivery
+The overall experience was okay.,neutral,Overall Experience
+The overall experience was fine.,neutral,Overall Experience
+The design is quite functional.,positive,Design
+A decent overall experience.,neutral,Overall Experience
+The design is elegant and modern.,positive,Design
+"Terrible, do not recommend.",negative,Customer Service
+Not getting the value I expected for my money.,negative,Value for Money
+The product works perfectly.,positive,Functionality
+The design is quite functional.,positive,Design
+The product didn't last long.,negative,Durability
+The product quality is outstanding.,positive,Product Quality
+The product is high quality.,positive,Product Quality
+Delivery was prompt and efficient.,positive,Delivery
+The overall experience was excellent.,positive,Overall Experience
+The overall experience was excellent.,positive,Overall Experience
+The product works as advertised.,positive,Functionality
+The product quality is substandard.,negative,Product Quality
+Delivery was quicker than I expected.,positive,Delivery
+Delivery was quicker than I expected.,positive,Delivery
+The overall experience was fine.,neutral,Overall Experience
+Not happy with the value for money.,negative,Value for Money
+Customer service needs improvement.,negative,Customer Service
+The product quality is substandard.,negative,Product Quality
+The product is not durable.,negative,Durability
+Service was not satisfactory.,negative,Customer Service
+The value for money is great.,positive,Value for Money
+The value for money is disappointing.,negative,Value for Money
+The value for money is reasonable.,positive,Value for Money
+The overall experience was fine.,neutral,Overall Experience
+The product quality is outstanding.,positive,Product Quality
+The product works as advertised.,positive,Functionality
+The design is quite functional.,positive,Design
+The product quality is outstanding.,positive,Product Quality
+The design is very practical.,positive,Design
+Customer service was not responsive.,negative,Customer Service
+The product performs very well.,positive,Functionality
+The overall experience was not good.,negative,Overall Experience
+Very satisfied with the purchase overall.,positive,Overall Experience
+Customer service was slow.,negative,Customer Service
+The value for money is not good.,negative,Value for Money
+Delivery was prompt and efficient.,positive,Delivery
+Service was quick and responsive.,positive,Customer Service
+The product is very reliable.,positive,Durability
+The overall experience was satisfactory.,neutral,Overall Experience
+The product performs well.,positive,Functionality
+Customer service was slow.,negative,Customer Service
+The overall experience was excellent.,positive,Overall Experience
+I'm happy with the overall experience.,positive,Overall Experience
+I'm very happy with the purchase.,positive,Overall Experience
+Customer service was rude.,negative,Customer Service
+The design is quite good.,positive,Design
+The overall experience was okay.,neutral,Overall Experience
+The product is high quality.,positive,Product Quality
+Delivery was quicker than I expected.,positive,Delivery
+Customer service needs improvement.,negative,Customer Service
+The product is of poor quality.,negative,Product Quality
+The design is modern and sleek.,positive,Design
+The product works as advertised.,positive,Functionality
+Customer service was not helpful.,negative,Customer Service
+Service was acceptable.,neutral,Customer Service
+The product is high quality.,positive,Product Quality
+"Service was fine, not great.",neutral,Customer Service
+The overall experience was excellent.,positive,Overall Experience
+Delivery was quicker than I expected.,positive,Delivery
+Customer service needs improvement.,negative,Customer Service
+The design is very practical.,positive,Design
+The product met all my expectations.,positive,Product Quality
+The product quality is substandard.,negative,Product Quality
+The product quality is mediocre.,neutral,Product Quality
+The overall experience was not good.,negative,Overall Experience
+Service was quick and responsive.,positive,Customer Service
+The quality of the product could be better.,neutral,Product Quality
+Delivery was prompt and efficient.,positive,Delivery
+Customer service was not helpful.,negative,Customer Service
+Delivery was a bit slow.,neutral,Delivery
+The design is quite functional.,positive,Design
+The overall experience was just okay.,neutral,Overall Experience
+The design is modern and sleek.,positive,Design
+Delivery was a bit slow.,neutral,Delivery
+The overall experience was not good.,negative,Overall Experience
+An overall good experience.,positive,Overall Experience
+The overall experience was okay.,neutral,Overall Experience
+The product is of superior quality.,positive,Product Quality
+The overall experience was excellent.,positive,Overall Experience
+The product is high quality.,positive,Product Quality
+The value for money is reasonable.,positive,Value for Money
+The product quality is fantastic.,positive,Product Quality
+The overall experience was just okay.,neutral,Overall Experience
+"Service was fine, not great.",neutral,Customer Service
+Service was poor and unhelpful.,negative,Customer Service
+The design is very attractive.,positive,Design
+The overall experience was okay.,neutral,Overall Experience
+I'm very happy with the purchase.,positive,Overall Experience
+The product works as advertised.,positive,Functionality
+Delivery was on time.,positive,Delivery
+I'm happy with the overall experience.,positive,Overall Experience
+The design is functional and attractive.,positive,Design
+Service was quick and responsive.,positive,Customer Service
+The overall experience was positive.,positive,Overall Experience
+The value for money is reasonable.,positive,Value for Money
+The product performs very well.,positive,Functionality
+Delivery was a bit slow.,neutral,Delivery
+The overall experience was positive.,positive,Overall Experience
+Service was quick and responsive.,positive,Customer Service
+The overall experience was positive.,positive,Overall Experience
+The product is not durable at all.,negative,Durability
+Service was not up to par.,negative,Customer Service
+Customer service needs improvement.,negative,Customer Service
+Customer service was rude and unhelpful.,negative,Customer Service
+"Service was okay, nothing special.",neutral,Customer Service
+The product quality is mediocre.,neutral,Product Quality
+"Service was fine, not great.",neutral,Customer Service
+The product is overpriced.,negative,Value for Money
+I'm very happy with the purchase.,positive,Overall Experience
+"Service was okay, nothing special.",neutral,Customer Service
+Service was not up to the mark.,negative,Customer Service
+The value for money is not good.,negative,Value for Money
+The product is overpriced.,negative,Value for Money
+Service was acceptable.,neutral,Customer Service
+The overall experience was excellent.,positive,Overall Experience
+The design is modern and sleek.,positive,Design
+The value for money is poor.,negative,Value for Money
+The design is quite functional.,positive,Design
+The product works as advertised.,positive,Functionality
+The overall experience was fantastic.,positive,Overall Experience
+The value for money is poor.,negative,Value for Money
+The product is overpriced.,negative,Value for Money
+Customer service was slow to respond.,negative,Customer Service
+"Service was okay, can be improved.",neutral,Customer Service
+The value for money is reasonable.,positive,Value for Money
+The product is of poor quality.,negative,Product Quality
+Service was not satisfactory.,negative,Customer Service
+The design is very attractive.,positive,Design
+The overall experience was below expectations.,negative,Overall Experience
+The quality of the product is disappointing.,negative,Product Quality
+The product quality is outstanding.,positive,Product Quality
+The overall experience was okay.,neutral,Overall Experience
+The product is overpriced.,negative,Value for Money
+The product is overpriced.,negative,Value for Money
+The overall experience was fantastic.,positive,Overall Experience
+The product did not meet my standards.,negative,Product Quality
+The product is overpriced.,negative,Value for Money
+The overall experience was excellent.,positive,Overall Experience
+"Service was fine, not great.",neutral,Customer Service
+"Service was fine, not great.",neutral,Customer Service
+The product is not durable at all.,negative,Durability
+Customer service was slow.,negative,Customer Service
+The overall experience was okay.,neutral,Overall Experience
+The product quality is substandard.,negative,Product Quality
+Customer service was not responsive.,negative,Customer Service
+The value for money is great.,positive,Value for Money
+"Service was great, will come back again.",positive,Customer Service
+Not getting the value I expected for my money.,negative,Value for Money
+The design is very attractive.,positive,Design
+Service was quick and responsive.,positive,Customer Service
+The product is overpriced.,negative,Value for Money
+The design is very attractive.,positive,Design
+The product met all my expectations.,positive,Product Quality
+I'm disappointed with the customer service.,negative,Customer Service
+"Service was okay, nothing special.",neutral,Customer Service
+The overall experience was fine.,neutral,Overall Experience
+The product is high quality.,positive,Product Quality
+The value for money is reasonable.,positive,Value for Money
+Delivery was on time.,positive,Delivery
+The product works as expected.,positive,Functionality
+The value for money is poor.,negative,Value for Money
+The overall experience was not good.,negative,Overall Experience
+The value for money is poor.,negative,Value for Money
+The overall experience was satisfactory.,neutral,Overall Experience
+The overall experience was satisfactory.,neutral,Overall Experience
+The product works perfectly.,positive,Functionality
+Service was not satisfactory.,negative,Customer Service
+"Service was fine, not great.",neutral,Customer Service
+I'm satisfied with the product quality.,positive,Product Quality
+Service was quick and responsive.,positive,Customer Service
+The design is very practical.,positive,Design
+Delivery was a bit slow.,neutral,Delivery
+The value for money is poor.,negative,Value for Money
+The product is not durable.,negative,Durability
+The overall experience was excellent.,positive,Overall Experience
+The overall experience was okay.,neutral,Overall Experience
+The value for money is reasonable.,positive,Value for Money
+The product quality is substandard.,negative,Product Quality
+The product is of poor quality.,negative,Product Quality
+I'm impressed with the design.,positive,Design
+The overall experience was not good.,negative,Overall Experience
+Customer service needs improvement.,negative,Customer Service
+The value for money is satisfactory.,neutral,Value for Money
+The design is quite functional.,positive,Design
+The product met all my expectations.,positive,Product Quality
+The product is high quality.,positive,Product Quality
+Delivery was a bit slow.,neutral,Delivery
+I'm impressed with the design.,positive,Design
+The product performs very well.,positive,Functionality
+The product works as advertised.,positive,Functionality
+Customer service needs improvement.,negative,Customer Service
+Customer service was not responsive.,negative,Customer Service
+The design is very appealing.,positive,Design
+The overall experience was satisfactory.,neutral,Overall Experience
+The design is modern and sleek.,positive,Design
+An overall mediocre experience.,neutral,Overall Experience
+The overall experience was fantastic.,positive,Overall Experience
+The design is very attractive.,positive,Design
+The product works perfectly.,positive,Functionality
+Service was not up to par.,negative,Customer Service
+The quality of the product could be better.,neutral,Product Quality
+Service was acceptable.,neutral,Customer Service
+Service was neither good nor bad.,neutral,Customer Service
+The product is overpriced.,negative,Value for Money
+I'm happy with the overall experience.,positive,Overall Experience
+The design could be improved.,neutral,Design
+Service was not satisfactory.,negative,Customer Service
+Customer service was slow.,negative,Customer Service
+Service was quick and responsive.,positive,Customer Service
+The value for money is not good.,negative,Value for Money
+The overall experience was great.,positive,Overall Experience
+The value for money is satisfactory.,neutral,Value for Money
+The product quality is substandard.,negative,Product Quality
+I had a great shopping experience.,positive,Overall Experience
+The design is quite good.,positive,Design
+The design is modern and sleek.,positive,Design
+The product quality is fantastic.,positive,Product Quality
+The design is very practical.,positive,Design
+The overall experience was fine.,neutral,Overall Experience
+The product is high quality.,positive,Product Quality
+Service was quick and responsive.,positive,Customer Service
+The value for money is not good.,negative,Value for Money
+The design is very practical.,positive,Design
+The design is quite functional.,positive,Design
+The product is excellent.,positive,Product Quality
+The product is overpriced.,negative,Value for Money
+Service was acceptable.,neutral,Customer Service
+An overall satisfying experience.,positive,Overall Experience
+The product quality is outstanding.,positive,Product Quality
+Delivery was a bit slow.,neutral,Delivery
+The product is not reliable.,negative,Durability
+The product is very reliable.,positive,Durability
+The value for money is satisfactory.,neutral,Value for Money
+The overall experience was okay.,neutral,Overall Experience
+The design is very attractive.,positive,Design
+The product performs very well.,positive,Functionality
+The product did not meet my standards.,negative,Product Quality
+The value for money is reasonable.,positive,Value for Money
+The product is overpriced.,negative,Value for Money
+I'm happy with the overall experience.,positive,Overall Experience
+I'm very happy with the purchase.,positive,Overall Experience
+The service was neither good nor bad.,neutral,Customer Service
+Delivery was on time.,positive,Delivery
+Delivery was quicker than I expected.,positive,Delivery
+Customer service needs improvement.,negative,Customer Service
+The overall experience was excellent.,positive,Overall Experience
+The overall experience was fine.,neutral,Overall Experience
+The design is quite good.,positive,Design
+The product is excellent.,positive,Product Quality
+The product is excellent.,positive,Product Quality
+Delivery was prompt and efficient.,positive,Delivery
+The overall experience was positive.,positive,Overall Experience
+The product is durable and of high quality.,positive,Product Quality
+"Fast shipping, product arrived in good condition.",positive,Delivery
+The value for money is poor.,negative,Value for Money
+The design is very attractive.,positive,Design
+Delivery was prompt and efficient.,positive,Delivery
+The overall experience was disappointing.,negative,Overall Experience
+The product quality is substandard.,negative,Product Quality
+Delivery was fast and efficient.,positive,Delivery
+The product works as advertised.,positive,Functionality
+The design could be improved.,neutral,Design
+"Service was fine, not great.",neutral,Customer Service
+The price is too high for the quality received.,negative,Value for Money
+The product is of poor quality.,negative,Product Quality
+I'm very happy with the purchase.,positive,Overall Experience
+The product is excellent.,positive,Product Quality
+The design is very attractive.,positive,Design
+Customer service needs improvement.,negative,Customer Service
+Service was not up to par.,negative,Customer Service
+I'm happy with the overall experience.,positive,Overall Experience
+The product quality is outstanding.,positive,Product Quality
+The product works perfectly.,positive,Functionality
+I'm impressed with the design.,positive,Design
+The design is very practical.,positive,Design
+The product works just as expected.,positive,Product Quality
+I'm very happy with the purchase.,positive,Overall Experience
+Delivery was prompt and efficient.,positive,Delivery
+The product performs very well.,positive,Functionality
+The product works perfectly.,positive,Functionality
+The value for money is poor.,negative,Value for Money
+I'm very happy with the purchase.,positive,Overall Experience
+The product performs very well.,positive,Functionality
+Product quality is top-notch.,positive,Product Quality
+The product performs very well.,positive,Functionality
+The product is of excellent quality.,positive,Product Quality
+I'm very happy with the purchase.,positive,Overall Experience
+The design is very practical.,positive,Design
+The overall experience was fine.,neutral,Overall Experience
+Customer service needs to be more responsive.,negative,Customer Service
+The overall experience was not good.,negative,Overall Experience
+The product is excellent.,positive,Product Quality
+The value for money is reasonable.,positive,Value for Money
+The product is high quality.,positive,Product Quality
+The product quality is outstanding.,positive,Product Quality
+I'm very happy with the purchase.,positive,Overall Experience
+The product is very reliable.,positive,Durability
+The design of the product is very sleek.,positive,Design
+Service was quick and responsive.,positive,Customer Service
+Service was not satisfactory.,negative,Customer Service
+The product did not meet my standards.,negative,Product Quality
+The product is good but not great.,neutral,Product Quality
+Service was not up to par.,negative,Customer Service
+The overall experience was not good.,negative,Overall Experience
+I'm impressed with the design.,positive,Design
+I'm impressed with the design.,positive,Design
+Service was not satisfactory.,negative,Customer Service
+The design is elegant and modern.,positive,Design
+I'm happy with the product quality.,positive,Product Quality
+The value for money is great.,positive,Value for Money
+The product quality is substandard.,negative,Product Quality
+The design is very modern.,positive,Design
+The product did not meet my standards.,negative,Product Quality
+Customer service needs to be more responsive.,negative,Customer Service
+Service was acceptable.,neutral,Customer Service
+The value for money is reasonable.,positive,Value for Money
+Service was acceptable.,neutral,Customer Service
+The design is very appealing.,positive,Design
+The design is very appealing.,positive,Design
+The value for money is poor.,negative,Value for Money
+Delivery was on time.,positive,Delivery
+The overall experience was positive.,positive,Overall Experience
+The product met all my expectations.,positive,Product Quality
+The value for money is great.,positive,Value for Money
+The product quality is substandard.,negative,Product Quality
+Service was quick and responsive.,positive,Customer Service
+The overall experience was fantastic.,positive,Overall Experience
+The product is excellent.,positive,Product Quality
+Customer service was not helpful.,negative,Customer Service
+The design is quite functional.,positive,Design
+"Service was average, not too bad.",neutral,Customer Service
+The product met all my expectations.,positive,Product Quality
+The overall experience was excellent.,positive,Overall Experience
+The product quality is substandard.,negative,Product Quality
+Customer service was not responsive.,negative,Customer Service
+The overall experience was satisfactory.,neutral,Overall Experience
+The overall experience was satisfactory.,neutral,Overall Experience
+The value for money is great.,positive,Value for Money
+The product quality is outstanding.,positive,Product Quality
+The value for money is satisfactory.,neutral,Value for Money
+Service was not satisfactory.,negative,Customer Service
+Service was satisfactory.,neutral,Customer Service
+The product did not meet my standards.,negative,Product Quality
+The value for money is poor.,negative,Value for Money
+The product is not durable.,negative,Durability
+The value for money is not good.,negative,Value for Money
+The product is of poor quality.,negative,Product Quality
+Customer service was slow.,negative,Customer Service
+The overall experience was fine.,neutral,Overall Experience
+Customer service was slow.,negative,Customer Service
+Customer service was rude.,negative,Customer Service
+Delivery was fast and efficient.,positive,Delivery
+The value for money is poor.,negative,Value for Money
+Delivery was prompt and efficient.,positive,Delivery
+Delivery was on time.,positive,Delivery
+The product is not durable.,negative,Durability
+I'm disappointed with the customer service.,negative,Customer Service
+Customer service needs improvement.,negative,Customer Service
+Customer service was not helpful.,negative,Customer Service
+Service was acceptable.,neutral,Customer Service
+The product performs very well.,positive,Functionality
+I'm very happy with the purchase.,positive,Overall Experience
+The website design is very user-friendly.,positive,Design
+Delivery was quicker than I expected.,positive,Delivery
+The overall experience was okay.,neutral,Overall Experience
+The product met all my expectations.,positive,Product Quality
+Customer service was not responsive.,negative,Customer Service
+The design is modern and sleek.,positive,Design
+"Fast shipping, product arrived in good condition.",positive,Delivery
+The value for money is satisfactory.,neutral,Value for Money
+The product did not meet my standards.,negative,Product Quality
+The value for money is not good.,negative,Value for Money
+The design is very appealing.,positive,Design
+The product is overpriced.,negative,Value for Money
+The overall experience was okay.,neutral,Overall Experience
+The design is quite good.,positive,Design
+Delivery was on time.,positive,Delivery
+The design could be improved.,neutral,Design
+Customer service needs improvement.,negative,Customer Service
+The design is very attractive.,positive,Design
+Delivery was prompt and efficient.,positive,Delivery
+The product works as advertised.,positive,Functionality
+"Service was okay, nothing special.",neutral,Customer Service
+The overall experience was not good.,negative,Overall Experience
+Delivery was on time.,positive,Delivery
+"Service was okay, nothing special.",neutral,Customer Service
+Service was just fine.,neutral,Customer Service
+Delivery was a bit slow.,neutral,Delivery
+The product met all my expectations.,positive,Product Quality
+I'm satisfied with the product quality.,positive,Product Quality
+"Service was okay, nothing special.",neutral,Customer Service
+Customer service was not responsive.,negative,Customer Service
+Delivery was prompt and efficient.,positive,Delivery
+The design is modern and sleek.,positive,Design
+"Fast shipping, product arrived in good condition.",positive,Delivery
+The product is high quality.,positive,Product Quality
+The value for money is great.,positive,Value for Money
+Service was not up to par.,negative,Customer Service
+The overall experience was fine.,neutral,Overall Experience
+Customer service was rude.,negative,Customer Service
+The overall experience was satisfactory.,neutral,Overall Experience
+Customer service needs to be more responsive.,negative,Customer Service
+The value for money is poor.,negative,Value for Money
+The overall experience was not good.,negative,Overall Experience
+Service was acceptable.,neutral,Customer Service
+Delivery was on time.,positive,Delivery
+The value for money is great.,positive,Value for Money
+An overall satisfying experience.,positive,Overall Experience
+The product is high quality.,positive,Product Quality
+The product quality is substandard.,negative,Product Quality
+The product is of poor quality.,negative,Product Quality
+The product is not durable.,negative,Durability
+Service was not up to par.,negative,Customer Service
+Delivery was a bit slow.,neutral,Delivery
+The value for money is poor.,negative,Value for Money
+The product works as advertised.,positive,Functionality
+The website layout is clean and modern.,positive,Design
+The overall experience was excellent.,positive,Overall Experience
+The product quality is remarkable.,positive,Product Quality
+Customer service was slow.,negative,Customer Service
+The product is of poor quality.,negative,Product Quality
+Service was not up to par.,negative,Customer Service
+I'm happy with the overall experience.,positive,Overall Experience
+The product is of poor quality.,negative,Product Quality
+The design is very attractive.,positive,Design
+Customer service was not helpful.,negative,Customer Service
+The product is excellent.,positive,Product Quality
+Very satisfied with the purchase overall.,positive,Overall Experience
+The design is very modern.,positive,Design
+I'm very happy with the purchase.,positive,Overall Experience
+Delivery was fast and efficient.,positive,Delivery
+The product quality is outstanding.,positive,Product Quality
+The overall experience was positive.,positive,Overall Experience
+The product is not reliable.,negative,Durability
+Service was quick and responsive.,positive,Customer Service
+The overall experience was okay.,neutral,Overall Experience
+"Fantastic experience, will definitely buy again!",positive,Overall Experience
+The overall experience was okay.,neutral,Overall Experience
+The value for money is reasonable.,positive,Value for Money
+Customer service was not responsive.,negative,Customer Service
+The product is substandard.,negative,Product Quality
+The design is quite good.,positive,Design
+The product works perfectly.,positive,Functionality
+The overall experience was satisfactory.,neutral,Overall Experience
+"Terrible, do not recommend.",negative,Customer Service
+I'm pleased with the overall experience.,positive,Overall Experience
+The product is high quality.,positive,Product Quality
+The product did not meet my standards.,negative,Product Quality
+The overall experience was satisfactory.,neutral,Overall Experience
+The product performs very well.,positive,Functionality
+Service was not up to par.,negative,Customer Service
+Delivery was prompt and efficient.,positive,Delivery
+The product quality is substandard.,negative,Product Quality
+The overall experience was positive.,positive,Overall Experience
+Delivery was fast and efficient.,positive,Delivery
+The product works as advertised.,positive,Functionality
+Customer service was slow.,negative,Customer Service
+The overall experience was disappointing.,negative,Overall Experience
+Delivery was fast and efficient.,positive,Delivery
+The product performs well.,positive,Functionality
+The product is high-quality.,positive,Product Quality
+I'm impressed with the design.,positive,Design
+The product is not durable.,negative,Durability
+The product is overpriced.,negative,Value for Money
+"Service was terrible, I will not come back.",negative,Customer Service
+I'm pleased with the overall experience.,positive,Overall Experience
+The product performs very well.,positive,Functionality
+Customer service was not responsive.,negative,Customer Service
+Service was not satisfactory.,negative,Customer Service
+I'm satisfied with the product quality.,positive,Product Quality
+I'm very happy with the purchase.,positive,Overall Experience
+The product works perfectly.,positive,Functionality
+I'm happy with the overall experience.,positive,Overall Experience
+The product did not meet my standards.,negative,Product Quality
+The overall experience was not good.,negative,Overall Experience
+I'm impressed with the design.,positive,Design
+The design is quite impressive.,positive,Design
+The product quality is poor.,negative,Product Quality
+Service was just fine.,neutral,Customer Service
+The product works perfectly.,positive,Functionality
+The overall experience was fine.,neutral,Overall Experience
+Delivery was quicker than I expected.,positive,Delivery
+The product did not meet my standards.,negative,Product Quality
+The design is very practical.,positive,Design
+Service was not satisfactory.,negative,Customer Service
+Delivery was prompt and satisfactory.,positive,Delivery
+I'm satisfied with the product quality.,positive,Product Quality
+The overall experience was fantastic.,positive,Overall Experience
+The overall experience was excellent.,positive,Overall Experience
+The value for money is satisfactory.,neutral,Value for Money
+The product is excellent.,positive,Product Quality
+The product is high quality.,positive,Product Quality
+The design is modern and sleek.,positive,Design
+Service was not up to par.,negative,Customer Service
+The product works perfectly.,positive,Functionality
+The product met all my expectations.,positive,Product Quality
+The value for money is poor.,negative,Value for Money
+I'm impressed with the design.,positive,Design
+The overall experience was positive.,positive,Overall Experience
+I'm thrilled with the value I received.,positive,Value for Money
+The product works perfectly.,positive,Functionality
+The design is very practical.,positive,Design
+Delivery was on time.,positive,Delivery
+The product works perfectly.,positive,Functionality
+Service was acceptable.,neutral,Customer Service
+The product is of poor quality.,negative,Product Quality
+Customer service was slow.,negative,Customer Service
+The overall experience was just fine.,neutral,Overall Experience
+Customer service was rude.,negative,Customer Service
+The overall experience was positive.,positive,Overall Experience
+I'm happy with the product quality.,positive,Product Quality
+I'm happy with the overall experience.,positive,Overall Experience
+The design is very practical.,positive,Design
+Customer service needs improvement.,negative,Customer Service
+The product is excellent.,positive,Product Quality
+Product quality exceeded my expectations.,positive,Product Quality
+The product is not durable.,negative,Durability
+The product works as advertised.,positive,Functionality
+The value for money is reasonable.,positive,Value for Money
+I recommend this service to everyone.,positive,Recommendation
+The value for money is great.,positive,Value for Money
+The overall experience was excellent.,positive,Overall Experience
+The product quality is mediocre.,neutral,Product Quality
+Customer service was not helpful.,negative,Customer Service
+I'm very happy with the purchase.,positive,Overall Experience
+I'm impressed with the design.,positive,Design
+The product did not meet my standards.,negative,Product Quality
+Delivery was fast and efficient.,positive,Delivery
+The value for money is not good.,negative,Value for Money
+The overall experience was excellent.,positive,Overall Experience
+The design is very practical.,positive,Design
+The product is overpriced.,negative,Value for Money
+The product is not reliable.,negative,Durability
+Service was not up to par.,negative,Customer Service
+The value for money is poor.,negative,Value for Money
+Service was acceptable.,neutral,Customer Service
+The product is overpriced.,negative,Value for Money
+The product quality is substandard.,negative,Product Quality
+The overall experience was fantastic.,positive,Overall Experience
+The design is quite functional.,positive,Design
+Customer service was not helpful.,negative,Customer Service
+Customer service was not responsive.,negative,Customer Service
+The design is very attractive.,positive,Design
+Customer service was slow.,negative,Customer Service
+The design is innovative and user-friendly.,positive,Design
+"Delivery was a day late, but the product is good.",neutral,Delivery
+"Service was okay, nothing special.",neutral,Customer Service
+Delivery was very quick.,positive,Delivery
+Service was satisfactory.,neutral,Customer Service
+The value for money is reasonable.,positive,Value for Money
+I'm very happy with the purchase.,positive,Overall Experience
+The design is modern and sleek.,positive,Design
+The value for money is great.,positive,Value for Money
+The overall experience was satisfactory.,neutral,Overall Experience
+The overall experience was okay.,neutral,Overall Experience
+Service was neither good nor bad.,neutral,Customer Service
+The overall experience was okay.,neutral,Overall Experience
+Customer service was slow.,negative,Customer Service
+The value for money is poor.,negative,Value for Money
+The overall experience was fantastic.,positive,Overall Experience
+Service was not satisfactory.,negative,Customer Service
+Service was not satisfactory.,negative,Customer Service
+"Fast shipping, product arrived in good condition.",positive,Delivery
+The product is good but not great.,neutral,Product Quality
+Customer service was not responsive.,negative,Customer Service
+The overall experience was amazing.,positive,Overall Experience
+The product is excellent.,positive,Product Quality
+The product works perfectly.,positive,Functionality
+Delivery was prompt and efficient.,positive,Delivery
+The design is functional and attractive.,positive,Design
+Delivery was a bit slow.,neutral,Delivery
+Great experience shopping here.,positive,Overall Experience
+Delivery was a bit slow.,neutral,Delivery
+The design is very attractive.,positive,Design
+The overall experience was fantastic.,positive,Overall Experience
+Delivery was a bit slow.,neutral,Delivery
+The product exceeded my expectations.,positive,Product Quality
+The design is very practical.,positive,Design
+I'm impressed with the design.,positive,Design
+The value for money is satisfactory.,neutral,Value for Money
+I'm happy with the overall purchase.,positive,Overall Experience
+Customer service was not responsive.,negative,Customer Service
+The product works as expected.,positive,Functionality
+The product is overpriced.,negative,Value for Money
+I'm satisfied with the product quality.,positive,Product Quality
+Delivery was quicker than I expected.,positive,Delivery
+The overall experience was fine.,neutral,Overall Experience
+The value for money is poor.,negative,Value for Money
+Delivery was prompt and efficient.,positive,Delivery
+I'm satisfied with the new design.,positive,Design
+I'm very happy with the purchase.,positive,Overall Experience
+I'm satisfied with the product quality.,positive,Product Quality
+The product met all my expectations.,positive,Product Quality
+The value for money is not good.,negative,Value for Money
+Customer service was slow.,negative,Customer Service
+The value for money is satisfactory.,neutral,Value for Money
+The overall experience was fantastic.,positive,Overall Experience
+The product is of poor quality.,negative,Product Quality
+The overall experience was satisfactory.,neutral,Overall Experience
+The product performs very well.,positive,Functionality
+The overall experience was okay.,neutral,Overall Experience
+Service was satisfactory.,neutral,Customer Service
+The product quality is mediocre.,neutral,Product Quality
+Customer service was below average.,negative,Customer Service
+The design is modern and sleek.,positive,Design
+Service was not satisfactory.,negative,Customer Service
+The overall experience was positive.,positive,Overall Experience
+Customer service was not helpful.,negative,Customer Service
+The product did not meet my standards.,negative,Product Quality
+Delivery was a bit slow.,neutral,Delivery
+The product performs very well.,positive,Functionality
+Delivery was fast and efficient.,positive,Delivery
+The product met all my expectations.,positive,Product Quality
+Service was acceptable.,neutral,Customer Service
+Customer support was very helpful.,positive,Customer Service
+Customer service was slow.,negative,Customer Service
+This product is not good at all.,negative,Product Quality
+I'm happy with the overall experience.,positive,Overall Experience
+I'm satisfied with the product quality.,positive,Product Quality
+The product is high quality.,positive,Product Quality
+The value for money is not good.,negative,Value for Money
+"Service was okay, nothing special.",neutral,Customer Service
+Customer service was unresponsive.,negative,Customer Service
+The quality of the product could be better.,neutral,Product Quality
+The value for money is great.,positive,Value for Money
+Customer service was not responsive.,negative,Customer Service
+I'm pleased with the overall experience.,positive,Overall Experience
+I'm impressed with the design and functionality.,positive,Design
+I'm very happy with the purchase.,positive,Overall Experience
+I'm happy with the overall experience.,positive,Overall Experience
+Customer service needs improvement.,negative,Customer Service
+I found the product to be very useful.,positive,Functionality
+The design is very practical.,positive,Design
+I'm very happy with the purchase.,positive,Overall Experience
+Customer service needs improvement.,negative,Customer Service
+The overall experience was excellent.,positive,Overall Experience
+Delivery was on time.,positive,Delivery
+The overall experience was excellent.,positive,Overall Experience
+The product is high quality.,positive,Product Quality
+I'm content with the overall experience.,positive,Overall Experience
+The product didn't last long.,negative,Durability
+The product is very reliable.,positive,Durability
+Service was acceptable.,neutral,Customer Service
+The overall experience was fantastic.,positive,Overall Experience
+Service was not up to par.,negative,Customer Service
+Customer service was not helpful.,negative,Customer Service
+Delivery was timely and efficient.,positive,Delivery
+The product met all my expectations.,positive,Product Quality
+"Service was fine, nothing special.",neutral,Customer Service
+I'm impressed with the design.,positive,Design
+The overall experience was fantastic.,positive,Overall Experience
+The overall experience was okay.,neutral,Overall Experience
+The product is excellent.,positive,Product Quality
+The product performs very well.,positive,Functionality
+The product quality is substandard.,negative,Product Quality
+Delivery was on time.,positive,Delivery
+I'm satisfied with the product quality.,positive,Product Quality
+Delivery was fast and efficient.,positive,Delivery
+Service was not satisfactory.,negative,Customer Service
+The product met all my expectations.,positive,Product Quality
+The product is too expensive.,negative,Value for Money
+Delivery was fast and efficient.,positive,Delivery
+The design is very attractive.,positive,Design
+Service was acceptable.,neutral,Customer Service
+Service was acceptable.,neutral,Customer Service
+Service was acceptable.,neutral,Customer Service
+The product did not meet my standards.,negative,Product Quality
+Customer service was rude.,negative,Customer Service
+Delivery was a bit slow.,neutral,Delivery
+Delivery was a bit slow.,neutral,Delivery
+The value for money is not good.,negative,Value for Money
+The value for money is not good.,negative,Value for Money
+The product is overpriced.,negative,Value for Money
+The product quality is outstanding.,positive,Product Quality
+Customer service needs improvement.,negative,Customer Service
+I'm very happy with the purchase.,positive,Overall Experience
+The design is modern and sleek.,positive,Design
+The value for money is reasonable.,positive,Value for Money
+Delivery was prompt and efficient.,positive,Delivery
+The overall experience was positive.,positive,Overall Experience
+Service was just fine.,neutral,Customer Service
+The overall experience was average.,neutral,Overall Experience
+The product is durable and of high quality.,positive,Product Quality
+Delivery was a day late.,negative,Delivery
+I'm very happy with the purchase.,positive,Overall Experience
+I'm happy with the overall experience.,positive,Overall Experience
+The overall experience was positive.,positive,Overall Experience
+The product quality is mediocre.,neutral,Product Quality
+The overall experience was positive.,positive,Overall Experience
+The product is of poor quality.,negative,Product Quality
+Great experience shopping here.,positive,Overall Experience
+The overall experience was just fine.,neutral,Overall Experience
+The product is not durable.,negative,Durability
+The product did not meet my standards.,negative,Product Quality
+Customer service needs improvement.,negative,Customer Service
+Delivery was quicker than I expected.,positive,Delivery
+The product quality is mediocre.,neutral,Product Quality
+The value for money is reasonable.,positive,Value for Money
+The product works perfectly.,positive,Functionality
+"Delivery was a day late, but the product is good.",neutral,Delivery
+Delivery was a bit slow.,neutral,Delivery
+I'm satisfied with the product quality.,positive,Product Quality
+Service was neither good nor bad.,neutral,Customer Service
+The product is high quality.,positive,Product Quality
+The value for money is not good.,negative,Value for Money
+The value for money is not good.,negative,Value for Money
+The product works as advertised.,positive,Functionality
+The product quality is outstanding.,positive,Product Quality
+The value for money is great.,positive,Value for Money
+Customer service was slow to respond.,negative,Customer Service
+The product is high quality.,positive,Product Quality
+Delivery was fast and efficient.,positive,Delivery
+The value for money is reasonable.,positive,Value for Money
+Delivery was quicker than I expected.,positive,Delivery
+The product is not durable.,negative,Durability
+The product works as advertised.,positive,Functionality
+The design is very practical.,positive,Design
+I'm very happy with the purchase.,positive,Overall Experience
+Customer service was slow.,negative,Customer Service
+Delivery was a bit slow.,neutral,Delivery
+The overall experience was not good.,negative,Overall Experience
+I'm impressed with the design.,positive,Design
+The value for money is great.,positive,Value for Money
+The overall experience was fantastic.,positive,Overall Experience
+Service was acceptable.,neutral,Customer Service
+The design is very practical.,positive,Design
+Customer service needs to be better.,negative,Customer Service
+The product is overpriced.,negative,Value for Money
+The product is not durable.,negative,Durability
+The product quality is outstanding.,positive,Product Quality
+Service was just fine.,neutral,Customer Service
+The product met my expectations.,positive,Product Quality
+The product is very reliable.,positive,Durability
+The design is quite good.,positive,Design
+The product quality is mediocre.,neutral,Product Quality
+The value for money is not good.,negative,Value for Money
+The value for money is satisfactory.,neutral,Value for Money
+Customer service was rude.,negative,Customer Service
+The product meets all my needs.,positive,Product Quality
+The product quality is mediocre.,neutral,Product Quality
+The overall experience was positive.,positive,Overall Experience
+Delivery was prompt and efficient.,positive,Delivery
+Customer service was rude.,negative,Customer Service
+The product quality is below average.,negative,Product Quality
+"Service was fine, not great.",neutral,Customer Service
+I'm very happy with the purchase.,positive,Overall Experience
+Customer service was slow to respond.,negative,Customer Service
+The product did not meet my expectations.,negative,Product Quality
